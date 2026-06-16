@@ -327,6 +327,30 @@
             "price": 1,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stand%20iPad.jpg"
+        },
+        {
+            "id": "p41",
+            "name": "ខ្សែសាក Type C",
+            "category": "Accessory",
+            "price": 2,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Type%20C.jpg"
+        },
+        {
+            "id": "p42",
+            "name": "ខ្សែសាក  Lightning",
+            "category": "Accessory",
+            "price": 2,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Cable%20Lightning.jpg"
+        },
+        {
+            "id": "p43",
+            "name": "ដុំសាក 20W",
+            "category": "Accessory",
+            "price": 3,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Adapter%2020W.jpg"
         }
     ]
 }

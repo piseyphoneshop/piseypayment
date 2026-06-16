@@ -55,6 +55,14 @@
             "price": 40,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
+        },
+        {
+            "id": "p7",
+            "name": "iPhone SE2",
+            "category": "iPhone",
+            "price": 50,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
         }
     ]
 }

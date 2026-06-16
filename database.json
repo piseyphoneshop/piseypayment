@@ -1,64 +1,64 @@
 {
-  "settings": {
-    "title": "ពិសី លក់ទូរសព្ទ័ដៃទំនើប - Pisey PhoneShop",
-    "subtitle": "គុណភាព ទំនុកចិត្ត តម្លៃសមរម្យ",
-    "logo": "https://raw.githubusercontent.com/vannysambath/Pisey/refs/heads/main/Pisey.png",
-    "url": "https://piseyphoneshop.web.app/",
-    "desc": "លក់ទូរស័ព្ទ និង iPadថ្មីមានប្រអប់ និង មួយទឹកស្រុកគេស្អាត 98% ❤️\n\nផេកទី1 : Pisey PhoneShop\nផេកទី2 : Pisey PhoneShop 2\n\n👉 016 53 28 24 ( Telegram និងវេរលុយ)\n❌ក្រៅពីលេខនេះ មិនទទួលខុសត្រូវឡើយ❌\n\n📥Telegram: @piseysmartshop\n\n📥https://piseyphoneshop.web.app/"
-  },
-  "products": [
-    {
-      "id": "p1",
-      "category": "iPhone",
-      "name": "iPhone 14 Pro Max (Bypass)",
-      "price": 198.0,
-      "currency": "USD",
-      "desc": "",
-      "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone14promax.jpg?utm_source=chatgpt.com"
+    "settings": {
+        "title": "ពិសី លក់ទូរសព្ទ័ដៃទំនើប - Pisey PhoneShop",
+        "subtitle": "គុណភាព ទំនុកចិត្ត តម្លៃសមរម្យ",
+        "logo": "https://raw.githubusercontent.com/vannysambath/Pisey/refs/heads/main/Pisey.png",
+        "url": "https://piseyphoneshop.web.app/",
+        "desc": "លក់ទូរស័ព្ទ និង iPadថ្មីមានប្រអប់ និង មួយទឹកស្រុកគេស្អាត 98% ❤️\n\nផេកទី1 : Pisey PhoneShop\nផេកទី2 : Pisey PhoneShop 2\n\n👉 016 53 28 24 ( Telegram និងវេរលុយ)\n❌ក្រៅពីលេខនេះ មិនទទួលខុសត្រូវឡើយ❌\n\n📥Telegram: @piseysmartshop\n\n📥https://piseyphoneshop.web.app/"
     },
-    {
-      "id": "c1",
-      "name": "Clear Silicone Case",
-      "price": 8,
-      "currency": "USD",
-      "category": "Accessory",
-      "image": "images/case.jpg"
-    },
-    {
-      "id": "s1",
-      "category": "Accessory",
-      "name": "Glass Screen Protector",
-      "price": 5.0,
-      "currency": "USD",
-      "desc": "",
-      "image": "images/case.jpg"
-    },
-    {
-      "id": "g1",
-      "category": "Accessory",
-      "name": "កាសឥតខ្សែ Air Port",
-      "price": 100000.0,
-      "currency": "KHR",
-      "desc": "",
-      "image": "images/case.jpg"
-    },
-    {
-      "id": "p2",
-      "category": "iPhone",
-      "name": "iPhone 7 - Sim+WiFi | 16G",
-      "price": 100000.0,
-      "currency": "KHR",
-      "desc": "",
-      "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg?utm_source=chatgpt.com"
-    },
-    {
-      "id": "p3",
-      "category": "iPhone",
-      "name": "iPhone 8",
-      "price": 30.0,
-      "currency": "USD",
-      "desc": "",
-      "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg?utm_source=chatgpt.com"
-    }
-  ]
+    "products": [
+        {
+            "id": "p1",
+            "category": "iPhone",
+            "name": "iPhone 14 Pro Max (Bypass)",
+            "price": 198,
+            "currency": "USD",
+            "desc": "",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone14promax.jpg?utm_source=chatgpt.com"
+        },
+        {
+            "id": "c1",
+            "name": "Clear Silicone Case",
+            "price": 8,
+            "currency": "USD",
+            "category": "Accessory",
+            "image": "images/case.jpg"
+        },
+        {
+            "id": "s1",
+            "category": "Accessory",
+            "name": "Glass Screen Protector",
+            "price": 5,
+            "currency": "USD",
+            "desc": "",
+            "image": "images/case.jpg"
+        },
+        {
+            "id": "g1",
+            "category": "Accessory",
+            "name": "កាសឥតខ្សែ Air Port",
+            "price": 100000,
+            "currency": "KHR",
+            "desc": "",
+            "image": "images/case.jpg"
+        },
+        {
+            "id": "p2",
+            "category": "iPhone",
+            "name": "iPhone 7 - Sim+WiFi | 16G",
+            "price": 100000,
+            "currency": "KHR",
+            "desc": "",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg?utm_source=chatgpt.com"
+        },
+        {
+            "id": "p3",
+            "category": "iPhone",
+            "name": "iPhone 8",
+            "price": 30,
+            "currency": "USD",
+            "desc": "",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg?utm_source=chatgpt.com"
+        }
+    ]
 }

@@ -383,6 +383,14 @@
             "price": 2.5,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Screen.jpg"
+        },
+        {
+            "id": "p48",
+            "name": "ស្រោមថ្លា",
+            "category": "Accessory",
+            "price": 1,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Screen.jpg"
         }
     ]
 }

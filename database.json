@@ -255,6 +255,14 @@
             "price": 28000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Univer%20Pen.jpg"
+        },
+        {
+            "id": "p32",
+            "name": "Mblue 22 Pro 128G - Screen 120fps",
+            "category": "Android",
+            "price": 270000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/M22Pro.jpg"
         }
     ]
 }

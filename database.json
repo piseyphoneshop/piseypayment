@@ -65,6 +65,14 @@
             "price": 38,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
+        },
+        {
+            "id": "A4",
+            "name": "iPad Mini 3",
+            "category": "iPad",
+            "price": 48,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
         }
     ]
 }

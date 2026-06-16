@@ -215,6 +215,14 @@
             "price": 89,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+        },
+        {
+            "id": "p27",
+            "name": "iPad 9.7inch 2018- 32G Sim+WiFi | ID ប្រើបាន",
+            "category": "iPad",
+            "price": 85,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
         }
     ]
 }

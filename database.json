@@ -127,6 +127,14 @@
             "price": 219,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone16.jpg"
+        },
+        {
+            "id": "p16",
+            "name": "iPad Mini 1st Generation",
+            "category": "iPad",
+            "price": 38,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad38.jpg"
         }
     ]
 }

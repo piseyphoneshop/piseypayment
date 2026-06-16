@@ -391,6 +391,14 @@
             "price": 1,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Clear%20Case.jpg"
+        },
+        {
+            "id": "p49",
+            "name": "ស្រោមថ្លា",
+            "category": "Gift",
+            "price": 0,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Clear%20Case.jpg"
         }
     ]
 }

@@ -19,28 +19,26 @@
         {
             "id": "c1",
             "name": "Clear Silicone Case",
+            "category": "Accessory",
             "price": 8,
             "currency": "USD",
-            "category": "Accessory",
-            "image": "images/case.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
         },
         {
             "id": "s1",
-            "category": "Accessory",
             "name": "Glass Screen Protector",
+            "category": "Accessory",
             "price": 5,
             "currency": "USD",
-            "desc": "",
-            "image": "images/case.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
         },
         {
             "id": "g1",
-            "category": "Accessory",
             "name": "កាសឥតខ្សែ Air Port",
+            "category": "Accessory",
             "price": 100000,
             "currency": "KHR",
-            "desc": "",
-            "image": "images/case.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
         },
         {
             "id": "p2",

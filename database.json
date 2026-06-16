@@ -362,16 +362,16 @@
         },
         {
             "id": "p45",
-            "name": "ខ្សែសាក និង ដុំសាកល្អ",
-            "category": "Gift",
+            "name": "ខ្សែសាក និង ដុំសាកល្អ FREE",
+            "category": "",
             "price": 0,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Box%20Charger.jpg"
         },
         {
             "id": "p46",
-            "name": "Screen កាពា",
-            "category": "Gift",
+            "name": "Screen FREE",
+            "category": "",
             "price": 0,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Screen.jpg"
@@ -394,8 +394,8 @@
         },
         {
             "id": "p49",
-            "name": "ស្រោមថ្លា",
-            "category": "Gift",
+            "name": "ស្រោមថ្លា​ FREE",
+            "category": "",
             "price": 0,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Clear%20Case.jpg"

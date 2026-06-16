@@ -319,6 +319,14 @@
             "price": 8,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%207.9%20No%20Pen.jpg"
+        },
+        {
+            "id": "p40",
+            "name": "ជើងទ្រ​ iPad",
+            "category": "Accessory",
+            "price": 1,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stand%20iPad.jpg"
         }
     ]
 }

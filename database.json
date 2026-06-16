@@ -95,6 +95,22 @@
             "price": 135,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "p12",
+            "name": "iPhone 12​ - អេក្រង់ថ្មី | 128G",
+            "category": "iPhone",
+            "price": 145,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "p13",
+            "name": "iPhone 12​ - អេក្រង់ថ្មី | 64G",
+            "category": "iPhone",
+            "price": 140,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

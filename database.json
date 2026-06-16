@@ -231,6 +231,14 @@
             "price": 99,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Panco%20Tablet.jpg"
+        },
+        {
+            "id": "p29",
+            "name": "Doyda 17 Pro Max",
+            "category": "Tablet",
+            "price": 89,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Douya%20Tablet.jpg"
         }
     ]
 }

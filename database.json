@@ -15,64 +15,6 @@
             "currency": "USD",
             "desc": "",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone14promax.jpg?utm_source=chatgpt.com"
-        },
-        {
-            "id": "c1",
-            "name": "Clear Silicone Case",
-            "category": "Accessory",
-            "price": 8,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
-        },
-        {
-            "id": "s1",
-            "name": "Glass Screen Protector",
-            "category": "Accessory",
-            "price": 5,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
-        },
-        {
-            "id": "g1",
-            "name": "កាសឥតខ្សែ Air Port",
-            "category": "Accessory",
-            "price": 100000,
-            "currency": "KHR",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
-        },
-        {
-            "id": "p2",
-            "category": "iPhone",
-            "name": "iPhone 7 - Sim+WiFi | 16G",
-            "price": 100000,
-            "currency": "KHR",
-            "desc": "",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg?utm_source=chatgpt.com"
-        },
-        {
-            "id": "p3",
-            "category": "iPhone",
-            "name": "iPhone 8",
-            "price": 30,
-            "currency": "USD",
-            "desc": "",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg?utm_source=chatgpt.com"
-        },
-        {
-            "id": "A9",
-            "name": "iPad First Generation",
-            "category": "iPad",
-            "price": 38,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
-        },
-        {
-            "id": "A4",
-            "name": "iPad Mini 3",
-            "category": "iPad",
-            "price": 48,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
         }
     ]
 }

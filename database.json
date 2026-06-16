@@ -239,6 +239,22 @@
             "price": 89,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Douya%20Tablet.jpg"
+        },
+        {
+            "id": "p30",
+            "name": "Stylus Pencil",
+            "category": "Accessory",
+            "price": 8,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stylus%20Pen.jpg"
+        },
+        {
+            "id": "p31",
+            "name": "Universal Pencil",
+            "category": "Accessory",
+            "price": 28000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Univer%20Pen.jpg"
         }
     ]
 }

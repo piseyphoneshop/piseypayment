@@ -223,6 +223,14 @@
             "price": 85,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+        },
+        {
+            "id": "p28",
+            "name": "Panco 17 Pro Max",
+            "category": "Tablet",
+            "price": 99,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
         }
     ]
 }

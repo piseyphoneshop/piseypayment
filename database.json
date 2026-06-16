@@ -63,6 +63,22 @@
             "price": 50,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
+        },
+        {
+            "id": "p8",
+            "name": "iPhone X",
+            "category": "iPhone",
+            "price": 68,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
+        },
+        {
+            "id": "p9",
+            "name": "iPhone XR - អេក្រង់ហ្ស៊ីន Scan ✔",
+            "category": "iPhone",
+            "price": 75,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneXR.jpg"
         }
     ]
 }

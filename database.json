@@ -15,6 +15,22 @@
             "currency": "USD",
             "desc": "",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone14promax.jpg?utm_source=chatgpt.com"
+        },
+        {
+            "id": "p2",
+            "name": "iPhone 4s",
+            "category": "iPhone",
+            "price": 25,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone4s.jpg"
+        },
+        {
+            "id": "p3",
+            "name": "iPhone 5",
+            "category": "iPhone",
+            "price": 25,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone5.jpg"
         }
     ]
 }

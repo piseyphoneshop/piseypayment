@@ -135,6 +135,14 @@
             "price": 38,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad38.jpg"
+        },
+        {
+            "id": "p17",
+            "name": "iPad Mini 3 - 16G",
+            "category": "iPad",
+            "price": 48,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Mini%203.jpg"
         }
     ]
 }

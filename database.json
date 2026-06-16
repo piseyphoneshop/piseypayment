@@ -47,6 +47,14 @@
             "price": 30,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
+        },
+        {
+            "id": "p6",
+            "name": "iPhone SE2 - ID ប្រើបាន",
+            "category": "iPhone",
+            "price": 40,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
         }
     ]
 }

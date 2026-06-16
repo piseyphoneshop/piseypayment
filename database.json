@@ -167,6 +167,22 @@
             "price": 135,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Mini%204%20SIM.jpg"
+        },
+        {
+            "id": "p21",
+            "name": "iPad Air 2 - 16G WiFi",
+            "category": "iPad",
+            "price": 73,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%202.jpg"
+        },
+        {
+            "id": "p22",
+            "name": "iPad Air 2 - 128 | Sim+WiFi",
+            "category": "iPad",
+            "price": 135,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%202.jpg"
         }
     ]
 }

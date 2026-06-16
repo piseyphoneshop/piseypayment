@@ -351,6 +351,14 @@
             "price": 3,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Adapter%2020W.jpg"
+        },
+        {
+            "id": "p44",
+            "name": "ខ្សែសាក និង ដុំសាកល្អ",
+            "category": "Accessory",
+            "price": 15000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Box%20Charger.jpg"
         }
     ]
 }

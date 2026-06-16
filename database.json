@@ -57,6 +57,14 @@
             "currency": "USD",
             "desc": "",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg?utm_source=chatgpt.com"
+        },
+        {
+            "id": "A9",
+            "name": "iPad First Generation",
+            "category": "iPad",
+            "price": 38,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
         }
     ]
 }

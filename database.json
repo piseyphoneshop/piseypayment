@@ -138,11 +138,27 @@
         },
         {
             "id": "p17",
-            "name": "iPad Mini 3 - 16G",
+            "name": "iPad Mini 3 - 16G WiFi",
             "category": "iPad",
             "price": 48,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Mini%203.jpg"
+        },
+        {
+            "id": "p18",
+            "name": "iPad Mini 4 - 16G WiFi",
+            "category": "iPad",
+            "price": 69,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Mini%204.jpg"
+        },
+        {
+            "id": "p19",
+            "name": "iPad Mini 4 - 16G Sim+WiFi",
+            "category": "iPad",
+            "price": 73,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Mini%204%20SIM.jpg"
         }
     ]
 }

@@ -415,6 +415,14 @@
             "price": 69,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
+        },
+        {
+            "id": "P52",
+            "name": "Set iPhone 7 - ថែមខ្សែសាកដុំសាក - ស្រោម",
+            "category": "iPhone",
+            "price": 35,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
         }
     ]
 }

@@ -439,6 +439,14 @@
             "price": 55,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
+        },
+        {
+            "id": "P55",
+            "name": "Set iPad Mini 1st  - ស្រ្គីន",
+            "category": "iPad",
+            "price": 40.5,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad38.jpg"
         }
     ]
 }

@@ -423,6 +423,14 @@
             "price": 35,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
+        },
+        {
+            "id": "P53",
+            "name": "Set iPhone 8 -ថែមខ្សែសាកដុំសាក - ស្រោម",
+            "category": "iPhone",
+            "price": 35,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
         }
     ]
 }

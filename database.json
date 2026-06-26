@@ -431,6 +431,14 @@
             "price": 35,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
+        },
+        {
+            "id": "P54",
+            "name": "Set iPhone SE2 - ថែមខ្សែសាកដុំសាក - ស្រោម",
+            "category": "iPhone",
+            "price": 55,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
         }
     ]
 }

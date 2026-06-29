@@ -455,6 +455,14 @@
             "price": 130000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
+        },
+        {
+            "id": "P57",
+            "name": "iPhone 11 Pro",
+            "category": "iPhone",
+            "price": 129,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         }
     ]
 }

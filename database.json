@@ -463,6 +463,14 @@
             "price": 129,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "P58",
+            "name": "iPhone 12 iDប្រើបាន",
+            "category": "iPhone",
+            "price": 420000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

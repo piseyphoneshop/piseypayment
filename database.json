@@ -471,6 +471,14 @@
             "price": 420000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "P59",
+            "name": "Keybord Mouse Premium",
+            "category": "Accessory",
+            "price": 8,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
         }
     ]
 }

@@ -479,6 +479,14 @@
             "price": 8,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+        },
+        {
+            "id": "P60",
+            "name": "ឈុត iPad + keyboard + ខេស + ប៊ិច",
+            "category": "iPad",
+            "price": 111,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Set%20Keybord%205th.jpg"
         }
     ]
 }

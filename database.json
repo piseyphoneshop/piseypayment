@@ -503,6 +503,14 @@
             "price": 124,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+        },
+        {
+            "id": "P63",
+            "name": "iPad 6th + ខេស + Keyboard",
+            "category": "iPad",
+            "price": 116,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
         }
     ]
 }

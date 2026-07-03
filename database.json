@@ -519,6 +519,14 @@
             "price": 189,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Set%20Keybord%205th.jpg"
+        },
+        {
+            "id": "P65",
+            "name": "MatePad 11.5s + Magic Keyboard + ប៊ិច",
+            "category": "Tablet",
+            "price": 205,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
         }
     ]
 }

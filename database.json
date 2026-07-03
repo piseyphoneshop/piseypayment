@@ -527,6 +527,14 @@
             "price": 205,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+        },
+        {
+            "id": "P66",
+            "name": "Huawei MatePad 11.5s",
+            "category": "Tablet",
+            "price": 155,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Set%20Keybord%205th.jpg"
         }
     ]
 }

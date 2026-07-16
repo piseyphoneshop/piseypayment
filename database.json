@@ -559,6 +559,14 @@
             "price": 219,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
+        },
+        {
+            "id": "P70",
+            "name": "Huawei MatePad 11.5s | Ram 12GB - 256GB | Magic Keybord",
+            "category": "Tablet",
+            "price": 229,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
         }
     ]
 }

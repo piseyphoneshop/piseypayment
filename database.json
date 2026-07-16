@@ -543,6 +543,22 @@
             "price": 5,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ScreenMatePad.png"
+        },
+        {
+            "id": "P68",
+            "name": "Huawei MatePad 11.5s | Ram 12GB - 256GB",
+            "category": "Tablet",
+            "price": 177,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
+        },
+        {
+            "id": "P69",
+            "name": "Huawei MatePad 11.5s | Ram 12GB - 256GB | Keybord",
+            "category": "Tablet",
+            "price": 219,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
         }
     ]
 }

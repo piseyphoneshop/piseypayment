@@ -586,11 +586,11 @@
         },
         {
             "id": "P73",
-            "name": "ឈុត Keyboard ខ្មែរ",
+            "name": "ឈុត ស្រោម  + Keyboard ខ្មែរ",
             "category": "Accessory",
             "price": 25,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Nomal%20Keybord.png"
         },
         {
             "id": "P74",

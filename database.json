@@ -249,14 +249,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stylus%20Pen.jpg"
         },
         {
-            "id": "p31",
-            "name": "Universal Pencil",
-            "category": "Accessory",
-            "price": 28000,
-            "currency": "KHR",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Univer%20Pen.jpg"
-        },
-        {
             "id": "p32",
             "name": "Mblue 22 Pro 128G - Screen 120fps",
             "category": "Android",

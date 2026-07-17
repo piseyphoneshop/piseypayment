@@ -615,14 +615,6 @@
             "price": 29,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Light%20Keybord%20MatePad.png"
-        },
-        {
-            "id": "P77",
-            "name": "ឈុត Nomal Keybord + Case Premium - Huawei MatePad 11.5s",
-            "category": "Accessory",
-            "price": 15,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Nomal%20Keybord.png"
         }
     ]
 }

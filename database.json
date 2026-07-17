@@ -583,6 +583,14 @@
             "price": 55,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MagicKeybord.png"
+        },
+        {
+            "id": "P73",
+            "name": "ឈុត Keyboard ខ្មែរ",
+            "category": "Accessory",
+            "price": 25,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
         }
     ]
 }

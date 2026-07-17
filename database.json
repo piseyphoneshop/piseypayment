@@ -575,6 +575,14 @@
             "price": 177,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad+Flash.png"
+        },
+        {
+            "id": "P72",
+            "name": "Magic Keyboard Huawei",
+            "category": "Accessory",
+            "price": 55,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MagicKeybord.png"
         }
     ]
 }

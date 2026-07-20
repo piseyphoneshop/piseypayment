@@ -591,6 +591,14 @@
             "price": 11,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+        },
+        {
+            "id": "P78",
+            "name": "Keyboard អង់គ្លេស",
+            "category": "Accessory",
+            "price": 9,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
         }
     ]
 }

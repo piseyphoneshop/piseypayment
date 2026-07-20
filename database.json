@@ -583,6 +583,14 @@
             "price": 29,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Light%20Keybord%20MatePad.png"
+        },
+        {
+            "id": "P77",
+            "name": "Keyboard ខ្មែរ",
+            "category": "Accessory",
+            "price": 11,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
         }
     ]
 }

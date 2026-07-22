@@ -10,8 +10,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 179,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-22T16:11:06.000Z",
             "note": "010​706​708 - 10$"
         },
         {
@@ -24,8 +24,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 0,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-22T16:11:08.309Z",
             "note": "Torn Devid - Paid 116.08$"
         },
         {
@@ -38,8 +38,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 71.5,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-22T16:11:09.847Z",
             "note": "សួង សុវណ្ណារិទ្ធលីម៉ា - 10$"
         },
         {
@@ -52,8 +52,8 @@
             "deliveryFee": 5,
             "exchangeRate": null,
             "netAmount": 65,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-22T16:11:11.502Z",
             "note": "ថ្មី ពន្លឺ - កក់ 10$"
         },
         {

@@ -10,8 +10,8 @@
             "deliveryFee": 5,
             "exchangeRate": null,
             "netAmount": 60,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-22T06:32:13.933Z",
             "note": "Name - 10$"
         },
         {

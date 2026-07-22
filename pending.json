@@ -66,8 +66,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 179,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-22T16:17:38.577Z",
             "note": "Chan Srey Pich បានកក់ 10$"
         }
     ]

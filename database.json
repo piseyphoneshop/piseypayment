@@ -615,6 +615,14 @@
             "price": 20,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord_Touch.png"
+        },
+        {
+            "id": "P81",
+            "name": "ឈុត Huawei MatePad Pro 2025 + Keybord Touch ខ្មែរ + Case + Pen",
+            "category": "Tablet",
+            "price": 220,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         }
     ]
 }

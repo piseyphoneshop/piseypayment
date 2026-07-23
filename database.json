@@ -599,6 +599,22 @@
             "price": 9,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+        },
+        {
+            "id": "P79",
+            "name": "Huawei MatePad Pro 2025",
+            "category": "Tablet",
+            "price": 185,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "P80",
+            "name": "Keyboard Touch អក្សខ្មែរ",
+            "category": "Accessory",
+            "price": 20,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord_Touch.png"
         }
     ]
 }

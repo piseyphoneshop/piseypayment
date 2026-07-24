@@ -631,6 +631,14 @@
             "price": 210,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "P83",
+            "name": "Huawei MatePad Pro 2025",
+            "category": "Phnom Penh",
+            "price": 185,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         }
     ]
 }

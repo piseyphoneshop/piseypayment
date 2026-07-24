@@ -727,6 +727,14 @@
             "price": 5,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ScreenMatePad.png"
+        },
+        {
+            "id": "P95",
+            "name": "Case Huawei MatePad 11.5s",
+            "category": "Phnom Penh",
+            "price": 10,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%20MatePad.png"
         }
     ]
 }

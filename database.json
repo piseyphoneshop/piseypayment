@@ -743,6 +743,22 @@
             "price": 3,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%20iPhone.jpg"
+        },
+        {
+            "id": "P97",
+            "name": "ខ្សែសាក ដុំសាក iPhone",
+            "category": "Phnom Penh",
+            "price": 15000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Box%20Charger.jpg"
+        },
+        {
+            "id": "P98",
+            "name": "ខ្សែសាក ដុំសាក Huawei",
+            "category": "Phnom Penh",
+            "price": 20000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Box%20Charger.jpg"
         }
     ]
 }

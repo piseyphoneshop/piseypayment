@@ -703,6 +703,14 @@
             "price": 460000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "P92",
+            "name": "ស្រោមថ្លា 9.7",
+            "category": "Phnom Penh",
+            "price": 1,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Clear%20Case.jpg"
         }
     ]
 }

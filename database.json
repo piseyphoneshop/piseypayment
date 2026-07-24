@@ -711,6 +711,22 @@
             "price": 1,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Clear%20Case.jpg"
+        },
+        {
+            "id": "P93",
+            "name": "ស្រ្គីន",
+            "category": "Phnom Penh",
+            "price": 2.5,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Screen.jpg"
+        },
+        {
+            "id": "P94",
+            "name": "ស្រ្គីន Matepad",
+            "category": "Phnom Penh",
+            "price": 5,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ScreenMatePad.png"
         }
     ]
 }

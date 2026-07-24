@@ -679,6 +679,22 @@
             "price": 30,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
+        },
+        {
+            "id": "P89",
+            "name": "iPhone XR",
+            "category": "Phnom Penh",
+            "price": 75,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneXR.jpg"
+        },
+        {
+            "id": "P90",
+            "name": "iPhone 11 Pro",
+            "category": "Phnom Penh",
+            "price": 129,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         }
     ]
 }

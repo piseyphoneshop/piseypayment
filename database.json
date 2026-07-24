@@ -671,6 +671,14 @@
             "price": 68,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
+        },
+        {
+            "id": "P88",
+            "name": "iPhone 8 - Grade A++",
+            "category": "Phnom Penh",
+            "price": 30,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone8.jpg"
         }
     ]
 }

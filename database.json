@@ -655,6 +655,14 @@
             "price": 79,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
+        },
+        {
+            "id": "P86",
+            "name": "Huawei MatePad 11.5s",
+            "category": "Phnom Penh",
+            "price": 155,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
         }
     ]
 }

@@ -759,6 +759,14 @@
             "price": 20000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Box%20Charger.jpg"
+        },
+        {
+            "id": "P99",
+            "name": "Stylus’s Pen",
+            "category": "Phnom Penh",
+            "price": 8,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stylus%20Pen.jpg"
         }
     ]
 }

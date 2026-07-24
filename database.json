@@ -647,6 +647,14 @@
             "price": 98,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+        },
+        {
+            "id": "P85",
+            "name": "iPad 9.7inch 2017 - 32G Sim+WiFi",
+            "category": "Phnom Penh",
+            "price": 79,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
         }
     ]
 }

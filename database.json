@@ -695,6 +695,14 @@
             "price": 129,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "P91",
+            "name": "iPhone 12 iDប្រើបាន",
+            "category": "Phnom Penh",
+            "price": 460000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

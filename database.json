@@ -735,6 +735,14 @@
             "price": 10,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%20MatePad.png"
+        },
+        {
+            "id": "P96",
+            "name": "Case iPhone 7G 8G SE",
+            "category": "Phnom Penh",
+            "price": 3,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%20iPhone.jpg"
         }
     ]
 }

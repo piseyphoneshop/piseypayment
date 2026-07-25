@@ -775,6 +775,14 @@
             "price": 390000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "P101",
+            "name": "ស្រោម 9.7 inch",
+            "category": "Accessory",
+            "price": 9,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%20MatePad.png"
         }
     ]
 }

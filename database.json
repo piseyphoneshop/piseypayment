@@ -767,6 +767,14 @@
             "price": 8,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stylus%20Pen.jpg"
+        },
+        {
+            "id": "P100",
+            "name": "iPhone 11 iDប្រើបាន",
+            "category": "iPhone",
+            "price": 390000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         }
     ]
 }

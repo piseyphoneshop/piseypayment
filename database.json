@@ -783,6 +783,14 @@
             "price": 9,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%20MatePad.png"
+        },
+        {
+            "id": "P102",
+            "name": "iPhone 12 សាណុំ Zin ស៉ីម",
+            "category": "iPhone",
+            "price": 690000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

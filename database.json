@@ -791,6 +791,14 @@
             "price": 690000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "P103",
+            "name": "Keyboard ខ្មែរ",
+            "category": "Phnom Penh",
+            "price": 11,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
         }
     ]
 }

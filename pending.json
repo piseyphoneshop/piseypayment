@@ -10,8 +10,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 160,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-28T15:02:06.827Z",
             "note": "BRO HEANG - 081570113 10$"
         },
         {
@@ -38,8 +38,8 @@
             "deliveryFee": 1.5,
             "exchangeRate": null,
             "netAmount": 0,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-28T15:03:09.599Z",
             "note": "ទូច ជាឈិញ 070498570 - Paid ✅"
         },
         {
@@ -52,8 +52,8 @@
             "deliveryFee": 5,
             "exchangeRate": null,
             "netAmount": 139,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-28T15:02:27.471Z",
             "note": "Delivery 2 តង់ - 0884157776 - 10$"
         },
         {
@@ -66,8 +66,8 @@
             "deliveryFee": 2,
             "exchangeRate": null,
             "netAmount": 0,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-28T15:03:15.116Z",
             "note": "0715782020 - Full Paid ✅"
         },
         {
@@ -80,8 +80,8 @@
             "deliveryFee": 2,
             "exchangeRate": null,
             "netAmount": 0,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-28T15:03:16.288Z",
             "note": "Kai Seng Hai 060 373 719 - Full Paid ✅"
         },
         {

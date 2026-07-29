@@ -799,6 +799,14 @@
             "price": 11,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+        },
+        {
+            "id": "P104",
+            "name": "Huawei Matepad 11 SE 2026",
+            "category": "Tablet",
+            "price": 229,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
         }
     ]
 }

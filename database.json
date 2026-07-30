@@ -807,6 +807,14 @@
             "price": 229,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
+        },
+        {
+            "id": "P109",
+            "name": "Huawei Matepad 11.5S",
+            "category": "Phnom Penh",
+            "price": 177,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         }
     ]
 }

@@ -775,6 +775,14 @@
             "price": 229,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
+        },
+        {
+            "id": "P105",
+            "name": "Huawei MatePad 11.5s iD + Keyboard + Pen ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 195,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
         }
     ]
 }

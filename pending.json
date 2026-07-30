@@ -10,8 +10,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 80.5,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-30T14:42:24.271Z",
             "note": "010232964 - 10$"
         },
         {
@@ -24,8 +24,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 58,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-30T14:42:23.548Z",
             "note": "Nha - 071 6826 747 / 10$"
         },
         {

@@ -24,8 +24,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 170,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-30T10:03:58.487Z",
             "note": "BRO HENG - 10$ 081570113"
         },
         {

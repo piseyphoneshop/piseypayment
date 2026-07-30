@@ -537,14 +537,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
         },
         {
-            "id": "P71",
-            "name": "Huawei MatePad 11.5s | Flash",
-            "category": "Tablet",
-            "price": 185,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad+Flash.png"
-        },
-        {
             "id": "P72",
             "name": "Magic Keyboard Huawei",
             "category": "Accessory",

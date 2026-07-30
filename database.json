@@ -783,6 +783,14 @@
             "price": 195,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
+        },
+        {
+            "id": "P106",
+            "name": "Huawei 11.5s + Magic Keyboard ថែមប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 230,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
         }
     ]
 }

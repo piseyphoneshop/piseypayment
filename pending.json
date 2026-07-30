@@ -122,8 +122,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 176.5,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-07-30T14:41:56.234Z",
             "note": "Sor Sibolone - 10$"
         },
         {

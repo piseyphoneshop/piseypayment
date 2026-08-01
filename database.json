@@ -815,6 +815,14 @@
             "price": 177,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
+        },
+        {
+            "id": "P110",
+            "name": "iPad Air3 256g Sim + Keyboard Touch KH + ថែមស្គ្រីន",
+            "category": "iPad",
+            "price": 197,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
         }
     ]
 }

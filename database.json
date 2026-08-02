@@ -855,6 +855,14 @@
             "price": 215,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
+        },
+        {
+            "id": "P113",
+            "name": "Huawei 11.5s | Case + Keybord​ KH មាន Touchpads + ប៊ិច ថែមស្រ្គីន + Charger",
+            "category": "Tablet",
+            "price": 220,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
         }
     ]
 }

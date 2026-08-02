@@ -831,6 +831,14 @@
             "price": 177,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
+        },
+        {
+            "id": "P65",
+            "name": "Huawei 11.5s | Case + Keybord​ + ប៊ិច ថែមស្រ្គីន + Charger",
+            "category": "Tablet",
+            "price": 212,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
         }
     ]
 }

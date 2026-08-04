@@ -863,6 +863,14 @@
             "price": 220,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
+        },
+        {
+            "id": "P114",
+            "name": "iPhone 13 128g ស៊ីម",
+            "category": "iPhone",
+            "price": 270,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

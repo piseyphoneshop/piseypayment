@@ -871,6 +871,14 @@
             "price": 270,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "P115",
+            "name": "Huawei 11.5s | Ram 12GB - 256GB | Keybord​ Touch Kh  + ប៊ិច ថែមស្រ្គីន",
+            "category": "Tablet",
+            "price": 231,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad189.png"
         }
     ]
 }

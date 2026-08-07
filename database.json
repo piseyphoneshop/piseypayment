@@ -609,14 +609,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         },
         {
-            "id": "P83",
-            "name": "Huawei MatePad Pro 2025",
-            "category": "Phnom Penh",
-            "price": 185,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
-        },
-        {
             "id": "P84",
             "name": "iPad 6th 2018 - 32G Sim+WiFi",
             "category": "Phnom Penh",
@@ -871,14 +863,6 @@
             "price": 270,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
-        },
-        {
-            "id": "P115",
-            "name": "Huawei 11.5s | Ram 12GB - 256GB | Keybord​ Touch Kh  + ប៊ិច ថែមស្រ្គីន",
-            "category": "Tablet",
-            "price": 231,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad189.png"
         }
     ]
 }

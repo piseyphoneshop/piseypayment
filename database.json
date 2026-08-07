@@ -799,6 +799,22 @@
             "price": 270,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "P116",
+            "name": "Huawei 11.5s iD | Ram8GB - 256GB | Keybord Touch KH+ ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 209,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad189.png"
+        },
+        {
+            "id": "P117",
+            "name": "Huawei 11.5s iD | Ram8GB - 256GB | Magic Keybord + ប៊ិច ថែមស្គ្រីន (Freeដឹក)",
+            "category": "Tablet",
+            "price": 233,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
         }
     ]
 }

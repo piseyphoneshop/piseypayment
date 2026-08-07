@@ -823,6 +823,14 @@
             "price": 177,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
+        },
+        {
+            "id": "P119",
+            "name": "Huawei 11.5s | Ram8GB 256GB | + Keyboard Eng +  ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 205,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
         }
     ]
 }

@@ -801,28 +801,12 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
         },
         {
-            "id": "P65",
-            "name": "Huawei 11.5s | Case + Keybord​ Eng + ប៊ិច ថែមស្រ្គីន + Charger",
-            "category": "Tablet",
-            "price": 205,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
-        },
-        {
             "id": "P111",
             "name": "Huawei  11.5s  | Magic Keybord + ប៊ិច + ថែមស្រ្គីន + Charger",
             "category": "Tablet",
             "price": 239,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
-        },
-        {
-            "id": "P113",
-            "name": "Huawei 11.5s | Case + Keybord​ KH មាន Touchpads + ប៊ិច ថែមស្រ្គីន + Charger",
-            "category": "Tablet",
-            "price": 220,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
         },
         {
             "id": "P114",

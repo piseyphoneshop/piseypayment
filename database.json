@@ -785,14 +785,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Solid%20Case.png"
         },
         {
-            "id": "P108",
-            "name": "Huawei Matepad 11.5s + Magic Keyboard ថែមស្គ្រីន",
-            "category": "Phnom Penh",
-            "price": 229,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
-        },
-        {
             "id": "P109",
             "name": "Huawei Matepad 11.5S",
             "category": "Phnom Penh",
@@ -809,14 +801,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
         },
         {
-            "id": "P64",
-            "name": "Huawei MatePad 11.5s",
-            "category": "Tablet",
-            "price": 177,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
-        },
-        {
             "id": "P65",
             "name": "Huawei 11.5s | Case + Keybord​ Eng + ប៊ិច ថែមស្រ្គីន + Charger",
             "category": "Tablet",
@@ -831,14 +815,6 @@
             "price": 239,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
-        },
-        {
-            "id": "P112",
-            "name": "Huawei 11.5s | Case + Keybord​ KH + ប៊ិច ថែមស្រ្គីន + Charger",
-            "category": "Tablet",
-            "price": 215,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
         },
         {
             "id": "P113",

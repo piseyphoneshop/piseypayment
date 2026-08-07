@@ -871,6 +871,14 @@
             "price": 216,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
+        },
+        {
+            "id": "P225",
+            "name": "Huawei MatePad Pro |Ram12GB 256GB + Keyboard KH ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 226,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadPen.png"
         }
     ]
 }

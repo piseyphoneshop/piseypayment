@@ -815,6 +815,14 @@
             "price": 233,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
+        },
+        {
+            "id": "P118",
+            "name": "Huawei MatePad 11.5s | Ram8GB 256GB",
+            "category": "Android",
+            "price": 177,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad11.5s.png"
         }
     ]
 }

@@ -895,6 +895,14 @@
             "price": 253,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
+        },
+        {
+            "id": "P228",
+            "name": "ប៊ិច Huawei",
+            "category": "iPhone",
+            "price": 20,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stylus%20Pen.jpg"
         }
     ]
 }

@@ -911,6 +911,14 @@
             "price": 98,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "P231",
+            "name": "iPhone 12 សាណុំZin No ស្កេន",
+            "category": "Tablet",
+            "price": 650000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

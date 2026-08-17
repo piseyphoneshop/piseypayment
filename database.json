@@ -919,6 +919,14 @@
             "price": 650000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "P232",
+            "name": "iPhone 12 អេក្រង់ថ្មី No ស្កេន",
+            "category": "iPhone",
+            "price": 550000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

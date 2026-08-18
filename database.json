@@ -983,6 +983,14 @@
             "price": 239,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad+Flash.png"
+        },
+        {
+            "id": "P240",
+            "name": "iPhone អេក្រង់ថ្មី iD",
+            "category": "iPhone",
+            "price": 400000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         }
     ]
 }

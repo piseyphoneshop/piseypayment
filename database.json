@@ -935,6 +935,14 @@
             "price": 177,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
+        },
+        {
+            "id": "P234",
+            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 128GB | + Keyboard Eng +  ស្រោម",
+            "category": "Tablet",
+            "price": 205,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         }
     ]
 }

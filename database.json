@@ -951,6 +951,14 @@
             "price": 215,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
+        },
+        {
+            "id": "P236",
+            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 256GB",
+            "category": "Tablet",
+            "price": 199,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad+Flash.png"
         }
     ]
 }

@@ -182,7 +182,7 @@
             "category": "iPad",
             "price": 79,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
         {
             "id": "p26",
@@ -190,7 +190,7 @@
             "category": "iPad",
             "price": 118,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
         {
             "id": "p27",
@@ -198,7 +198,7 @@
             "category": "iPad",
             "price": 107,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
         {
             "id": "p28",
@@ -762,9 +762,9 @@
         },
         {
             "id": "P110",
-            "name": "iPad Air3 256g Sim + ឈុត Keyboard KH + ថែមស្គ្រីន ដុំសាក",
+            "name": "iPad Air3 256g ស៊ីម+ WiFi",
             "category": "iPad",
-            "price": 197,
+            "price": 179,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
         },

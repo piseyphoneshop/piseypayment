@@ -10,8 +10,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 88,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-08-21T05:49:26.961Z",
             "note": "085337608 - 10$"
         },
         {
@@ -24,8 +24,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 0,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-08-21T05:49:25.029Z",
             "note": "Change iPad 5th to 6th"
         },
         {
@@ -38,8 +38,8 @@
             "deliveryFee": 2.5,
             "exchangeRate": null,
             "netAmount": 179,
-            "status": "pending",
-            "paidDate": null,
+            "status": "paid",
+            "paidDate": "2026-08-21T05:49:23.297Z",
             "note": "Xing Chiee | 0976826714 - 10$"
         },
         {

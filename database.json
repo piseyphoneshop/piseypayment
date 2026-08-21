@@ -420,7 +420,7 @@
             "id": "P55",
             "name": "iPad 6th  + ខេស  + Keyboard KH+ ប៊ិច |ថែម 1set",
             "category": "iPad",
-            "price": null,
+            "price": 136,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
         },
@@ -454,23 +454,15 @@
             "category": "iPad",
             "price": 126,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
-        },
-        {
-            "id": "P62",
-            "name": "iPad 6th + ខេស + Keyboard kh + ប៊ិច",
-            "category": "iPad",
-            "price": 124,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%206th.jpg"
         },
         {
             "id": "P63",
-            "name": "iPad 6th + ខេស + Keyboard Kh | ថែម 1 Set",
+            "name": "iPad 6th Gen ស៊ីម 32GB",
             "category": "iPad",
             "price": 98,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad6th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%206th.jpg"
         },
         {
             "id": "P66",

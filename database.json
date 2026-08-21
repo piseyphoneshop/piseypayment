@@ -258,11 +258,11 @@
         },
         {
             "id": "p36",
-            "name": "ស្រោម iPad 9.7",
+            "name": "ស្រោម iPad 9.7 រូបតុក្កតា",
             "category": "Accessory",
             "price": 10,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%209.7inch.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%209.7.jpg"
         },
         {
             "id": "p37",
@@ -270,7 +270,7 @@
             "category": "Accessory",
             "price": 8,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%207.9inch.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Mini%204%205%20Case.jpg"
         },
         {
             "id": "p38",
@@ -278,7 +278,7 @@
             "category": "Accessory",
             "price": 9,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%207.9%20Pen.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Mini%204%205%20Case.jpg"
         },
         {
             "id": "p39",
@@ -286,7 +286,7 @@
             "category": "Accessory",
             "price": 8,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%207.9%20No%20Pen.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Mini%201%20Case.jpg"
         },
         {
             "id": "p40",
@@ -542,7 +542,7 @@
             "category": "Accessory",
             "price": 11,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/KH_Keyboard.jpg"
         },
         {
             "id": "P78",
@@ -550,7 +550,7 @@
             "category": "Accessory",
             "price": 9,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Eng_Keyboard.jpg"
         },
         {
             "id": "P80",
@@ -590,7 +590,7 @@
             "category": "Phnom Penh",
             "price": 79,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
         {
             "id": "P87",
@@ -706,7 +706,7 @@
         },
         {
             "id": "P101",
-            "name": "ស្រោម 9.7 inch",
+            "name": "ស្រោម 9.7 inch ពណ៌លាត",
             "category": "Accessory",
             "price": 9,
             "currency": "USD",
@@ -870,7 +870,7 @@
             "category": "Accessory",
             "price": 20,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Stylus%20Pen.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Pen%2010%24%20(No%20Charge).jpg"
         },
         {
             "id": "P229",
@@ -878,7 +878,7 @@
             "category": "Accessory",
             "price": 12,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%207.9inch.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Cute%20Air%203%20Case.jpg"
         },
         {
             "id": "P230",

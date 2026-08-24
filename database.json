@@ -842,19 +842,19 @@
         },
         {
             "id": "P224",
-            "name": "Huawei MatePad Pro |Ram12GB 256GB + Keyboard Eng ថែមប៊ិច",
+            "name": "Huawei Pro |Ram12GB 256GB + Keyboard Eng ថែមប៊ិច",
             "category": "Tablet",
             "price": 226,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         },
         {
             "id": "P225",
-            "name": "Huawei MatePad Pro |Ram12GB 256GB + Keyboard KH ថែម ប៊ិច",
+            "name": "Huawei Pro |Ram12GB 256GB + Keyboard KH ថែម ប៊ិច",
             "category": "Tablet",
             "price": 236,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadPen.png"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         },
         {
             "id": "P226",

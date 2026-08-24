@@ -258,7 +258,7 @@
         },
         {
             "id": "p36",
-            "name": "ស្រោម iPad 9.7 រូបតុក្កតា",
+            "name": "ស្រោម iPad 9.7",
             "category": "Accessory",
             "price": 10,
             "currency": "USD",
@@ -706,7 +706,7 @@
         },
         {
             "id": "P101",
-            "name": "ស្រោម 9.7 inch ពណ៌លាត",
+            "name": "ស្រោម 9.7 inch ពណ៌",
             "category": "Accessory",
             "price": 9,
             "currency": "USD",
@@ -906,7 +906,7 @@
         },
         {
             "id": "P233",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 128GB",
+            "name": "Paper Mate - Huawei 11.5 | Ram8GB 128GB",
             "category": "Tablet",
             "price": 177,
             "currency": "USD",
@@ -914,7 +914,7 @@
         },
         {
             "id": "P234",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 128GB | + Keyboard Eng +  ស្រោម",
+            "name": "Paper Mate - Huawei 11.5 | Ram8GB 128GB | + Keyboard Eng +  ស្រោម",
             "category": "Tablet",
             "price": 205,
             "currency": "USD",
@@ -922,7 +922,7 @@
         },
         {
             "id": "P235",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 128GB | + Keyboard KH +  ស្រោម",
+            "name": "Paper Mate - Huawei  11.5 | Ram8GB 128GB | + Keyboard KH +  ស្រោម",
             "category": "Tablet",
             "price": 215,
             "currency": "USD",
@@ -930,7 +930,7 @@
         },
         {
             "id": "P236",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 256GB",
+            "name": "Paper Mate - Huawei  11.5 | Ram8GB 256GB",
             "category": "Tablet",
             "price": 199,
             "currency": "USD",
@@ -938,7 +938,7 @@
         },
         {
             "id": "P237",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 256B | Keybord​ Eng + Case",
+            "name": "Paper Mate - Huawei 11.5 | Ram8GB 256B | Keybord​ Eng + Case",
             "category": "Tablet",
             "price": 226,
             "currency": "USD",
@@ -946,7 +946,7 @@
         },
         {
             "id": "P238",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 256GB | + Keyboard KH +  ស្រោម",
+            "name": "Paper Mate - Huawei  11.5 | Ram8GB 256GB | + Keyboard KH +  ស្រោម",
             "category": "Tablet",
             "price": 236,
             "currency": "USD",
@@ -954,7 +954,7 @@
         },
         {
             "id": "P239",
-            "name": "Paper Mate - Huawei MatePad 11.5 | Ram8GB 256GB | + Keyboard KH Touch +  ស្រោម",
+            "name": "Paper Mate - Huawei 11.5 | Ram8GB 256GB | + Keyboard KH Touch +  ស្រោម",
             "category": "Tablet",
             "price": 239,
             "currency": "USD",

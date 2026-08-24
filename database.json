@@ -975,6 +975,14 @@
             "price": 175,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2013.jpg"
+        },
+        {
+            "id": "B01",
+            "name": "Huawei MatePad Pro ID",
+            "category": "Tablet",
+            "price": 189,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         }
     ]
 }

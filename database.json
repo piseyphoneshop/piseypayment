@@ -486,7 +486,7 @@
             "category": "Tablet",
             "price": 230,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+Keybord.png"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         },
         {
             "id": "P70",
@@ -494,7 +494,7 @@
             "category": "Tablet",
             "price": 236,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadPen.png"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         },
         {
             "id": "P72",
@@ -566,7 +566,7 @@
             "category": "Tablet",
             "price": 240,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Matepad189.png"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         },
         {
             "id": "P82",

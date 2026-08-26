@@ -983,6 +983,14 @@
             "price": 189,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "B03",
+            "name": "Huawei  11.5s Mate Flash | Ram 8GB - 256GB | Keyboard KH+ ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 245,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         }
     ]
 }

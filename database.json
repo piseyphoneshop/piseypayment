@@ -58,7 +58,7 @@
         },
         {
             "id": "p7",
-            "name": "iPhone X ស៊ីម",
+            "name": "iPhone X 64GB ស៊ីម",
             "category": "iPhone",
             "price": 69,
             "currency": "USD",
@@ -66,7 +66,7 @@
         },
         {
             "id": "p8",
-            "name": "iPhone X ស៊ីម",
+            "name": "iPhone X 64GB ស៊ីម",
             "category": "iPhone",
             "price": 68,
             "currency": "USD",
@@ -378,17 +378,17 @@
         },
         {
             "id": "P51",
-            "name": "Set iPhone X -ថែមខ្សែសាកដុំសាក - ស្រោម",
+            "name": "iPhone XS 64GB Zin | ថែម 1set",
             "category": "iPhone",
-            "price": 69,
+            "price": 105,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
         },
         {
             "id": "P52",
-            "name": "Set iPhone 8",
+            "name": "iPhone XS 256g Zin | ថែម 1set",
             "category": "iPhone",
-            "price": 34,
+            "price": 129,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone7.jpg"
         },

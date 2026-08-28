@@ -60,13 +60,13 @@
             "id": "p7",
             "name": "iPhone X ស៊ីម",
             "category": "iPhone",
-            "price": 68,
+            "price": 69,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
         },
         {
             "id": "p8",
-            "name": "iPhone X",
+            "name": "iPhone X ស៊ីម",
             "category": "iPhone",
             "price": 68,
             "currency": "USD",

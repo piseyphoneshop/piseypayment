@@ -58,11 +58,11 @@
         },
         {
             "id": "p7",
-            "name": "iPhone SE2",
+            "name": "iPhone X ស៊ីម",
             "category": "iPhone",
-            "price": 50,
+            "price": 68,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneSE2.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
         },
         {
             "id": "p8",

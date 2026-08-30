@@ -999,6 +999,14 @@
             "price": 130,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2016%20XR.jpg"
+        },
+        {
+            "id": "A05",
+            "name": "iPhone XR 64GB ស៊ីម  | ថែម 1Set",
+            "category": "iPhone",
+            "price": 80,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneXR.jpg"
         }
     ]
 }

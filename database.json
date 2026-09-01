@@ -833,38 +833,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB+MagicKeybord.png"
         },
         {
-            "id": "P223",
-            "name": "Huawei MatePad Pro",
-            "category": "Tablet",
-            "price": 199,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
-        },
-        {
-            "id": "P224",
-            "name": "Huawei Pro |Ram12GB 256GB + Keyboard Eng ថែមប៊ិច",
-            "category": "Tablet",
-            "price": 226,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
-        },
-        {
-            "id": "P225",
-            "name": "Huawei Pro |Ram12GB 256GB + Keyboard KH ថែម ប៊ិច",
-            "category": "Tablet",
-            "price": 236,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
-        },
-        {
-            "id": "P226",
-            "name": "Huawei  Pro |Ram12GB 256GB + Keyboard Touch KH ថែម ប៊ិច",
-            "category": "Tablet",
-            "price": 239,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
-        },
-        {
             "id": "P228",
             "name": "ប៊ិច Huawei",
             "category": "Accessory",
@@ -977,14 +945,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2013.jpg"
         },
         {
-            "id": "B01",
-            "name": "Huawei MatePad Pro ID",
-            "category": "Tablet",
-            "price": 189,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
-        },
-        {
             "id": "B03",
             "name": "Huawei  11.5s Mate Flash | Ram 8GB - 256GB | Keyboard KH+ ប៊ិច ថែមស្គ្រីន",
             "category": "Tablet",
@@ -1031,6 +991,30 @@
             "price": 229,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
+        },
+        {
+            "id": "C01",
+            "name": "Huawei MatePad Pro | RAM 12GB - 256GB",
+            "category": "Tablet",
+            "price": 219,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "C02",
+            "name": "Huawei MatePad Pro | RAM 8GB - 256GB ID",
+            "category": "Tablet",
+            "price": 199,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "C04",
+            "name": "Huawei MatePad Pro | RAM 12GB - 256GB | ស្រោម + Screen + ខ្សែសាក ដុំ",
+            "category": "Tablet",
+            "price": 239,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         }
     ]
 }

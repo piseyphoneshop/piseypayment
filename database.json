@@ -1015,6 +1015,14 @@
             "price": 229,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "4C04",
+            "name": "Huawei MatePad Pro | RAM 8GB - 256GB ID | ស្រោម + Screen + ខ្សែសាក ដុំ",
+            "category": "Tablet",
+            "price": 209,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         }
     ]
 }

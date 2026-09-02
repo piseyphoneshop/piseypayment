@@ -983,6 +983,22 @@
             "price": 209,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "A16",
+            "name": "Huawei 11.5s 12GB 256GB - ID",
+            "category": "Tablet",
+            "price": 195,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A2.jpg"
+        },
+        {
+            "id": "A17",
+            "name": "Huawei 11.5s 12GB 256GB  iD | ស្រោម + ស្គ្រីន",
+            "category": "Tablet",
+            "price": 210,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A2.jpg"
         }
     ]
 }

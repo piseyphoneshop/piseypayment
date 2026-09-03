@@ -553,14 +553,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Keybord_Touch.png"
         },
         {
-            "id": "P81",
-            "name": "Huawei  11.5s | Ram 12GB - 256GB | Keybord Touch KH + ប៊ិច ថែមស្គ្រីន",
-            "category": "Tablet",
-            "price": 240,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
-        },
-        {
             "id": "P82",
             "name": "Huawei  11.5s | Ram 12GB - 256GB | Magic Keybord + ប៊ិច ថែមស្គ្រីន",
             "category": "Tablet",
@@ -761,14 +753,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2013.jpg"
         },
         {
-            "id": "P116",
-            "name": "Huawei 11.5s iD | Ram8GB - 256GB | Keybord Touch KH+ ប៊ិច ថែមស្គ្រីន",
-            "category": "Tablet",
-            "price": 219,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad%2011.5%20Papermate.jpg"
-        },
-        {
             "id": "P117",
             "name": "Huawei 11.5s iD | Ram8GB - 256GB | Magic Keybord + ប៊ិច ថែមស្គ្រីន",
             "category": "Tablet",
@@ -877,14 +861,6 @@
             "name": "Paper Mate - Huawei  11.5 | Ram8GB 256GB | + Keyboard KH +  ស្រោម",
             "category": "Tablet",
             "price": 236,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
-        },
-        {
-            "id": "P239",
-            "name": "Paper Mate - Huawei 11.5 | Ram8GB 256GB | + Keyboard KH Touch +  ស្រោម",
-            "category": "Tablet",
-            "price": 239,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
         },

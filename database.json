@@ -777,14 +777,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
         },
         {
-            "id": "P221",
-            "name": "Huawei 11.5s | Ram8GB 256GB | + Keyboard Touch KH +  ប៊ិច ថែមស្គ្រីន",
-            "category": "Tablet",
-            "price": 230,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
-        },
-        {
             "id": "P222",
             "name": "Huawei 11.5s | Ram8GB 256GB | + Magic Keyboard  +  ប៊ិច ថែមស្គ្រីន",
             "category": "Tablet",
@@ -881,14 +873,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2013.jpg"
         },
         {
-            "id": "B03",
-            "name": "Huawei  11.5s Mate Flash | Ram 8GB - 256GB | Keyboard KH+ ប៊ិច ថែមស្គ្រីន",
-            "category": "Tablet",
-            "price": 245,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
-        },
-        {
             "id": "B04",
             "name": "iPhone 16 - XR Update | ថែមខ្សែសាក ដុំសាក ស្រោម",
             "category": "iPhone",
@@ -970,19 +954,19 @@
         },
         {
             "id": "A17",
-            "name": "Huawei 11.5s 12GB 256GB  iD | ស្រោម + ស្គ្រីន",
+            "name": "Huawei 11.5s 12GB 256GB iD | Keyboard KH +ស្រោម +ប៊ិច- ថែមស្គ្រីន",
             "category": "Tablet",
-            "price": 210,
+            "price": 230,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A2.jpg"
         },
         {
             "id": "A018",
-            "name": "Huawei 11.5s 8GB 256GB | Keyboard KH + ស្រោម + ស្រ្គីន",
+            "name": "Huawei 11.5s 12GB 256GB iD | Magic Keyboard + ប៊ិច - ថែមស្គ្រីន",
             "category": "Tablet",
-            "price": 244,
+            "price": 264,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A2.jpg"
         }
     ]
 }

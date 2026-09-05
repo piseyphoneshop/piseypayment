@@ -999,6 +999,14 @@
             "price": 274,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/B02.jpg"
+        },
+        {
+            "id": "B06",
+            "name": "Flash-Paper Huawei 11.5s |8GB 256GB",
+            "category": "Tablet",
+            "price": 214,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/B02.jpg"
         }
     ]
 }

@@ -1007,6 +1007,14 @@
             "price": 229,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/B02.jpg"
+        },
+        {
+            "id": "B07",
+            "name": "128GB iPhone 16 - XR Update | ថែមខ្សែសាក ដុំសាក ស្រោម",
+            "category": "iPhone",
+            "price": 145,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2016%20XR.jpg"
         }
     ]
 }

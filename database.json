@@ -1015,6 +1015,14 @@
             "price": 145,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2016%20XR.jpg"
+        },
+        {
+            "id": "B30",
+            "name": "Huawei 11.5s | 8GB 128GB",
+            "category": "Tablet",
+            "price": 180,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatepadRam12GB.png"
         }
     ]
 }

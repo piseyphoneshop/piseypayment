@@ -1039,6 +1039,14 @@
             "price": 232,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
+        },
+        {
+            "id": "B34",
+            "name": "Flash-PaperMate Huawei 11.5s 8GB 256GB | Keyboard Touch +ស្រោម +ប៊ិច",
+            "category": "Tablet",
+            "price": 274,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/B02.jpg"
         }
     ]
 }

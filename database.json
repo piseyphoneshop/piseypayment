@@ -1047,6 +1047,14 @@
             "price": 274,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/B02.jpg"
+        },
+        {
+            "id": "A23",
+            "name": "Huawei 11.5s Flash 8GB 256GB | Keyboard Touch +ប៊ិច- ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 260,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
         }
     ]
 }

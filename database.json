@@ -1055,6 +1055,14 @@
             "price": 260,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
+        },
+        {
+            "id": "B35",
+            "name": "iPhone 12 |128g អេក្រង់ថ្មី No Scan",
+            "category": "iPhone",
+            "price": 590000,
+            "currency": "KHR",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

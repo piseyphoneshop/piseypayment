@@ -1063,6 +1063,14 @@
             "price": 590000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "B45",
+            "name": "Set iPad Air3 |256GB| ស៊ីម + Keyboard KH +ស្រោម + Pen -ថែមស្គ្រីន",
+            "category": "iPhone",
+            "price": 197,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
         }
     ]
 }

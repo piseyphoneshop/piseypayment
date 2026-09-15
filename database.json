@@ -860,8 +860,8 @@
             "id": "P240",
             "name": "iPhone 12 អេក្រង់ថ្មី iD",
             "category": "iPhone",
-            "price": 400000,
-            "currency": "KHR",
+            "price": 100,
+            "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         },
         {

@@ -1071,6 +1071,14 @@
             "price": 197,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
+        },
+        {
+            "id": "B56",
+            "name": "iPad Air3 |256GB ស៊ីម + Keyboard +ស្រោម - ថែមស្គ្រីន",
+            "category": "iPhone",
+            "price": 197,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%206th.jpg"
         }
     ]
 }

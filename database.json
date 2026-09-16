@@ -1079,6 +1079,22 @@
             "price": 264,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad%2011.5%20Papermate.jpg"
+        },
+        {
+            "id": "Z23",
+            "name": "PaperMate Huawei 11.5s 8GB 256GB | Keyboard KH  +ស្រោម +ប៊ិច ថែមស្គ្រីន",
+            "category": "iPad",
+            "price": 229,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad%2011.5%20Papermate.jpg"
+        },
+        {
+            "id": "B23",
+            "name": "PaperMate Huawei 11.5s |8GB 256GB |",
+            "category": "Tablet",
+            "price": 199,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad%2011.5%20Papermate.jpg"
         }
     ]
 }

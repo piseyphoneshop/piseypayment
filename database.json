@@ -1071,6 +1071,14 @@
             "price": 145,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "Z032",
+            "name": "PaperMate - Huawei 11.5s 8GB 256GB | Magic Keyboard  + ប៊ិច",
+            "category": "Tablet",
+            "price": 264,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad%2011.5%20Papermate.jpg"
         }
     ]
 }

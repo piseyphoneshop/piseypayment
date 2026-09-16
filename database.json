@@ -1026,9 +1026,9 @@
         },
         {
             "id": "B31",
-            "name": "iPhone 11 iD Upgrade 17 Pro Max",
+            "name": "iPhone 11 អេក្រង់ថ្មី iD - Upgrade 17 Pro Max",
             "category": "iPhone",
-            "price": 135,
+            "price": 140,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         },
@@ -1079,6 +1079,14 @@
             "price": 197,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
+        },
+        {
+            "id": "Z1",
+            "name": "iPhone 11 អេក្រង់Zin - Upgrade 17 Pro Max",
+            "category": "iPhone",
+            "price": 145,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         }
     ]
 }

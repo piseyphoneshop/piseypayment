@@ -192,6 +192,40 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-09-19-005-1789751490590",
+      "invoiceNumber": "005",
+      "date": "2026-09-19",
+      "datetime": "2026-09-18T17:11:30.590Z",
+      "customer": "-",
+      "note": "",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone X 64GB ស៊ីម | ថែម 1set",
+          "qty": 1,
+          "amount": "69.00$"
+        },
+        {
+          "name": "iPhone 11​ - អេក្រង់ថ្មី | 128G",
+          "qty": 1,
+          "amount": "105.00$"
+        },
+        {
+          "name": "iPhone 12​ - អេក្រង់ថ្មី | 128G",
+          "qty": 1,
+          "amount": "145.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$321.50",
+      "totalKHR": "1,302,075៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

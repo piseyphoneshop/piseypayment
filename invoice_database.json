@@ -32,39 +32,6 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
-    },
-    {
-      "id": "2026-09-18-024-1789743542470",
-      "invoiceNumber": "024",
-      "date": "2026-09-18",
-      "datetime": "2026-09-18T14:59:02.470Z",
-      "customer": "-",
-      "note": "",
-      "paymentStatus": "unpaid",
-      "items": [
-        {
-          "name": "iPhone 14 Pro Max (Bypass)",
-          "qty": 1,
-          "amount": "198.00$"
-        },
-        {
-          "name": "iPhone 4s",
-          "qty": 1,
-          "amount": "25.00$"
-        },
-        {
-          "name": "iPhone 5",
-          "qty": 1,
-          "amount": "25.00$"
-        }
-      ],
-      "serviceAmount": "$2.50",
-      "totalUSD": "$250.50",
-      "totalKHR": "1,014,525៛",
-      "infoLines": [
-        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
-        "ផ្ញើរតាមរយះ VET ✅"
-      ]
     }
   ]
 }

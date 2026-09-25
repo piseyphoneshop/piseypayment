@@ -347,6 +347,256 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-09-25-001-1790323146155",
+      "invoiceNumber": "001",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T07:59:06.155Z",
+      "customer": "Vanny",
+      "note": "Yok blue case",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 14 Pro Max (Bypass)",
+          "qty": 1,
+          "amount": "198.00$"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$203.00",
+      "totalKHR": "822,150៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 15.00$  (60,750៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 188.00$  (761,400៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-002-1790323818476",
+      "invoiceNumber": "002",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T08:10:18.476Z",
+      "customer": "Vanny",
+      "note": "",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 14 Pro Max (Bypass)",
+          "qty": 1,
+          "amount": "198.00$"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$203.00",
+      "totalKHR": "822,150៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 10.00$  (40,500៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 193.00$  (781,650៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-007-1790326123477",
+      "invoiceNumber": "007",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T08:48:43.477Z",
+      "customer": "Vanny",
+      "note": "",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 14 Pro Max (Bypass)",
+          "qty": 1,
+          "amount": "198.00$"
+        },
+        {
+          "name": "iPhone 4s",
+          "qty": 1,
+          "amount": "25.00$"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$228.00",
+      "totalKHR": "923,400៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 10.00$  (40,500៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 218.00$  (882,900៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-008-1790326224805",
+      "invoiceNumber": "008",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T08:50:24.805Z",
+      "customer": "SeakLiv",
+      "note": "He need game and blue case",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 14 Pro Max (Bypass)",
+          "qty": 1,
+          "amount": "198.00$"
+        },
+        {
+          "name": "iPhone 8 64GB ស៊ីម | ថែម 1set",
+          "qty": 1,
+          "amount": "150,000៛"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$237.54",
+      "totalKHR": "962,025៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-011-1790326486126",
+      "invoiceNumber": "011",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T08:54:46.126Z",
+      "customer": "Vanny",
+      "note": "ចង់បានសៀវភៅមួយ",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 14 Pro Max (Bypass)",
+          "qty": 1,
+          "amount": "198.00$"
+        },
+        {
+          "name": "iPhone 8 64GB ស៊ីម  | ថែម 1Set",
+          "qty": 1,
+          "amount": "170,000៛"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$244.98",
+      "totalKHR": "992,150៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 10.00$  (40,500៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 234.98$  (951,650៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-012-1790326713488",
+      "invoiceNumber": "012",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T08:58:33.488Z",
+      "customer": "សៀកលីវ",
+      "note": "ចង់បានខ្មៅសុទ្ធ សុំហ្គេមថែមផង",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei  11.5s | Ram 12GB - 256GB | Magic Keybord + ប៊ិច ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "265.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$267.50",
+      "totalKHR": "1,083,375៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-013-1790326897721",
+      "invoiceNumber": "013",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T09:01:37.721Z",
+      "customer": "វណ្ណី សម្បត្តិ",
+      "note": "ចង់បានហ្គេមសុទ្ធ",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei MatePad 11.5s | Ram 12GB - 256GB",
+          "qty": 1,
+          "amount": "199.00$"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$204.00",
+      "totalKHR": "826,200៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 15.00$  (60,750៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 189.00$  (765,450៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-014-1790327806319",
+      "invoiceNumber": "014",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T09:16:46.319Z",
+      "customer": "SeakLiv",
+      "note": "គាត់ចង់បាន ស សុទ្ធ",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei Matepad 11 SE 2026 ថ្មីប្រអប់",
+          "qty": 1,
+          "amount": "229.00$"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$234.00",
+      "totalKHR": "947,700៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 15.00$  (60,750៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 219.00$  (886,950៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
+    },
+    {
+      "id": "2026-09-25-015-1790328065287",
+      "invoiceNumber": "015",
+      "date": "2026-09-25",
+      "datetime": "2026-09-25T09:21:05.287Z",
+      "customer": "Vanny",
+      "note": "",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei  11.5s | Ram 12GB - 256GB | Magic Keybord + ប៊ិច ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "265.00$"
+        },
+        {
+          "name": "Huawei  11.5s | Ram 12GB - 256GB | Keyboard KH+ ស្រោម + ប៊ិច ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "236.00$"
+        }
+      ],
+      "serviceAmount": "$5.00",
+      "totalUSD": "$506.00",
+      "totalKHR": "2,049,300៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 15.00$  (60,750៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 491.00$  (1,988,550៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
     }
   ]
 }

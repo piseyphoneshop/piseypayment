@@ -1095,6 +1095,14 @@
             "price": 25,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Light%20Keybord%20MatePad.png"
+        },
+        {
+            "id": "B01",
+            "name": "iPhone X | 64GB | សាណុំ Zin",
+            "category": "iPhone",
+            "price": 95,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
         }
     ]
 }

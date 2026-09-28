@@ -688,6 +688,47 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-09-29-002-1790618794212",
+      "invoiceNumber": "002",
+      "date": "2026-09-29",
+      "datetime": "2026-09-28T18:06:34.212Z",
+      "customer": "ស្រីលីវ",
+      "note": "ស្រុកអង្គស្នួលខេត្តបន្ទាយមានជ័យបានទៅហើយនៅលើ",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 5",
+          "qty": 1,
+          "amount": "25.00$"
+        },
+        {
+          "name": "iPhone 4s",
+          "qty": 1,
+          "amount": "25.00$"
+        },
+        {
+          "name": "iPhone 14 Pro Max (Bypass)",
+          "qty": 1,
+          "amount": "198.00$"
+        },
+        {
+          "name": "Huawei MatePad 11.5s |Ram 8GB 256GB iD",
+          "qty": 1,
+          "amount": "180.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$430.50",
+      "totalKHR": "1,765,050៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 15.00$  (61,500៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 415.50$  (1,703,550៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

@@ -1087,6 +1087,14 @@
             "price": 95,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphoneX.jpg"
+        },
+        {
+            "id": "Z01",
+            "name": "Samsung Galaxy S21 Ultra 5G",
+            "category": "iPhone",
+            "price": 149,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/M22Pro.jpg"
         }
     ]
 }

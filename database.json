@@ -1106,11 +1106,19 @@
         },
         {
             "id": "Z03",
-            "name": "ស្រោម Cute | iPhone 11",
+            "name": "ស្រោម Cute | iPhone 11 - 12",
             "category": "Accessory",
             "price": 2,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%209.7.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ស្រោម Cute iPhone 12 .jpg"
+        },
+        {
+            "id": "Z04",
+            "name": "បន្តោង",
+            "category": "Accessory",
+            "price": 1,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Accessories%20.jpg"
         }
     ]
 }

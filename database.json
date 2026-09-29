@@ -1095,6 +1095,22 @@
             "price": 140,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/M22Pro.jpg"
+        },
+        {
+            "id": "Z02",
+            "name": "ស្គ្រីនគ្រីម MatePad",
+            "category": "Accessory",
+            "price": 15,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ScreenMatePad.png"
+        },
+        {
+            "id": "Z03",
+            "name": "ស្រោម Cute | iPhone 11",
+            "category": "Accessory",
+            "price": 2,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Case%209.7.jpg"
         }
     ]
 }

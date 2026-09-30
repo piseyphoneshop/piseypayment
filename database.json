@@ -82,7 +82,7 @@
         },
         {
             "id": "p10",
-            "name": "iPhone 11​ - អេក្រង់ថ្មី | 64G",
+            "name": "iPhone 11​ | 64GB អេក្រង់ថ្មី Noស្កេន - ថែម ស្រោម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 105,
             "currency": "USD",
@@ -666,7 +666,7 @@
         },
         {
             "id": "P100",
-            "name": "iPhone 11 iDប្រើបាន",
+            "name": "iPhone 11 64GB iDប្រើបាន - ថែម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 98,
             "currency": "USD",
@@ -682,7 +682,7 @@
         },
         {
             "id": "P102",
-            "name": "iPhone 12 សាណុំ Zin ស៉ីម",
+            "name": "iPhone 12 64GB សាណុំ Zin ស៉ីម - ថែម ស្រោម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 690000,
             "currency": "KHR",
@@ -727,14 +727,6 @@
             "price": 179,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
-        },
-        {
-            "id": "P114",
-            "name": "iPhone 13 128g ស៊ីម",
-            "category": "iPhone",
-            "price": 270,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2013.jpg"
         },
         {
             "id": "P117",
@@ -794,7 +786,7 @@
         },
         {
             "id": "P231",
-            "name": "iPhone 12 សាណុំZin No ស្កេន",
+            "name": "iPhone 12 64GB សាណុំZin No ស្កេន - ថែម ស្រោម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 650000,
             "currency": "KHR",
@@ -802,7 +794,7 @@
         },
         {
             "id": "P232",
-            "name": "iPhone 12 អេក្រង់ថ្មី No ស្កេន",
+            "name": "iPhone 12 64GB អេក្រង់ថ្មី No ស្កេន-ថែមស្រោម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 550000,
             "currency": "KHR",
@@ -1026,7 +1018,7 @@
         },
         {
             "id": "B35",
-            "name": "iPhone 12 |128g អេក្រង់ថ្មី No Scan",
+            "name": "iPhone 12 |128g អេក្រង់ថ្មី No Scan - ថែម ស្រោម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 590000,
             "currency": "KHR",

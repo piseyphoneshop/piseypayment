@@ -1111,6 +1111,14 @@
             "price": 1,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Accessories%20.jpg"
+        },
+        {
+            "id": "Z09",
+            "name": "Huawei 11.5s | 8GB 128G | 177$",
+            "category": "iPhone",
+            "price": 175,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
         }
     ]
 }

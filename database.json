@@ -1113,20 +1113,20 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Accessories%20.jpg"
         },
         {
-            "id": "Z09",
-            "name": "Huawei 11.5s | 8GB 128G | 177$",
-            "category": "iPhone",
-            "price": 175,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
-        },
-        {
             "id": "Z06",
             "name": "Huawei 11.5s | 8GB 128G | 177$",
             "category": "Tablet",
             "price": 175,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
+        },
+        {
+            "id": "Z11",
+            "name": "iPad Air4 | 256GB SIM + WiFI - ថែម 1set",
+            "category": "iPad",
+            "price": 330,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Air%203.jpg"
         }
     ]
 }

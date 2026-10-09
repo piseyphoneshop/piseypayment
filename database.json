@@ -1135,6 +1135,14 @@
             "price": 135,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "Z21",
+            "name": "iPhone 12 Pro Max 128GB",
+            "category": "iPhone",
+            "price": 275,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         }
     ]
 }

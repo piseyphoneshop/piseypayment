@@ -1143,6 +1143,22 @@
             "price": 275,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
+        },
+        {
+            "id": "Z18",
+            "name": "iPad 10 Gen | 64GB SIM + WiFi",
+            "category": "iPad",
+            "price": 279,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
+        },
+        {
+            "id": "Z19",
+            "name": "iPad 10 Gen | 64GB  Only WiFi",
+            "category": "iPad",
+            "price": 265,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
         }
     ]
 }

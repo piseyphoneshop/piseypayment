@@ -1154,9 +1154,9 @@
         },
         {
             "id": "Z19",
-            "name": "iPad 10 Generation | 64GB  - Only WiFi",
+            "name": "iPad 10 Generation | 64GB WiFi Only - ថែម 1Set",
             "category": "iPad",
-            "price": 265,
+            "price": 290,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
         },
@@ -1175,6 +1175,22 @@
             "price": 119,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "Z034",
+            "name": "iPad 10Gen | 256GB Sim + WiFi - ថែម 1Set",
+            "category": "iPad",
+            "price": 353,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
+        },
+        {
+            "id": "Z25",
+            "name": "iPad 10Gen | 256GB WiFi Only -ថែម 1Set",
+            "category": "iPad",
+            "price": 330,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
         }
     ]
 }

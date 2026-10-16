@@ -172,15 +172,15 @@
             "id": "p24",
             "name": "iPad 9.7inch 2017 - 32G Sim+WiFi | ID ប្រើបាន",
             "category": "iPad",
-            "price": 78,
+            "price": 80,
             "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad5th.jpg"
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
         {
             "id": "p25",
-            "name": "iPad 9.7inch 2017 - 32G Sim+WiFi",
+            "name": "iPad 9.7inch 2017 - 32G Sim+WiF - ថែម ខ្សែសាកដុំសាក",
             "category": "iPad",
-            "price": 79,
+            "price": 89,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
@@ -428,15 +428,15 @@
             "id": "P60",
             "name": "iPad 6th  + ខេស  + Keyboard KH |ថែម 1set",
             "category": "iPad",
-            "price": 126,
+            "price": 129,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%206th.jpg"
         },
         {
             "id": "P63",
-            "name": "iPad 6th Gen ស៊ីម 32GB",
+            "name": "iPad 6th Gen ស៊ីម 32GB - ថែម 1Set",
             "category": "iPad",
-            "price": 98,
+            "price": 129,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%206th.jpg"
         },

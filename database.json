@@ -1191,6 +1191,14 @@
             "price": 330,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
+        },
+        {
+            "id": "C12",
+            "name": "ខេស iPhone X , Xs",
+            "category": "Accessory",
+            "price": 3,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ស្រោម Cute iPhone 12 .jpg"
         }
     ]
 }

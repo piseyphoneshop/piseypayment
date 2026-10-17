@@ -1201,14 +1201,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ស្រោម Cute iPhone 12 .jpg"
         },
         {
-            "id": "C012",
-            "name": "Huawei 11.5s PaperMate + Flash | 12GB 256GB | - ខ្សែសាកដុំសាក",
-            "category": "Tablet",
-            "price": 255,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
-        },
-        {
             "id": "x01",
             "name": "Huawei  11.5 | Ram8GB 128GB | + Keyboard KH +  ស្រោម + ប៊ិច ថែមស្គ្រីន",
             "category": "Tablet",
@@ -1231,6 +1223,14 @@
             "price": 260,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
+        },
+        {
+            "id": "X12",
+            "name": "Huawei 11.5s PaperMate + Flash | 12GB 256GB | - ខ្សែសាកដុំសាក",
+            "category": "Tablet",
+            "price": 255,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
         }
     ]
 }

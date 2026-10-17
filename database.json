@@ -201,14 +201,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%209.7inch%205th.jpg"
         },
         {
-            "id": "p28",
-            "name": "Panco 17 Pro Max",
-            "category": "Tablet",
-            "price": 99,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Panco%20Tablet.jpg"
-        },
-        {
             "id": "p29",
             "name": "Doyda 17 Pro Max",
             "category": "Tablet",

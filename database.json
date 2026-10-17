@@ -1199,6 +1199,14 @@
             "price": 3,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/ស្រោម Cute iPhone 12 .jpg"
+        },
+        {
+            "id": "C012",
+            "name": "Huawei 11.5s PaperMate + Flash | 12GB 256GB | - ខ្សែសាកដុំសាក",
+            "category": "Tablet",
+            "price": 255,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
         }
     ]
 }

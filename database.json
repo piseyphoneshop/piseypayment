@@ -1215,6 +1215,22 @@
             "price": 216,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
+        },
+        {
+            "id": "x11",
+            "name": "Huawei  11.5 | Ram8GB 128GB | + Keyboard Touch +  ស្រោម + ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 220,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
+        },
+        {
+            "id": "x12",
+            "name": "Huawei  11.5 | Ram8GB 128GB | + Magic Kb +  ស្រោម + ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 260,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
         }
     ]
 }

@@ -1113,14 +1113,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
         },
         {
-            "id": "Z11",
-            "name": "iPad Air4 | 256GB SIM + WiFI - ថែម 1set",
-            "category": "iPad",
-            "price": 330,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/IMG_2001-500x500.jpg"
-        },
-        {
             "id": "Z122",
             "name": "iPhone 11 64GB | សាណុំ Zin មានស្កេន",
             "category": "iPhone",
@@ -1223,6 +1215,22 @@
             "price": 255,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
+        },
+        {
+            "id": "z012",
+            "name": "iPad Air4 | 256GB SIM + WiFI - ថែម 1set",
+            "category": "iPad",
+            "price": 379,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/IMG_2001-500x500.jpg"
+        },
+        {
+            "id": "z11",
+            "name": "iPad Air4 | 256GB SIM + WiFI - ថែម 1set",
+            "category": "iPad",
+            "price": 289,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/IMG_2001-500x500.jpg"
         }
     ]
 }

@@ -409,14 +409,6 @@
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
         },
         {
-            "id": "P58",
-            "name": "iPhone 12 iDប្រើបាន",
-            "category": "iPhone",
-            "price": 490000,
-            "currency": "KHR",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
-        },
-        {
             "id": "P60",
             "name": "iPad 6th  + ខេស  + Keyboard KH |ថែម 1set",
             "category": "iPad",
@@ -1007,14 +999,6 @@
             "price": 260,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/11.5s%20Flash.jpg"
-        },
-        {
-            "id": "B35",
-            "name": "iPhone 12 |128g អេក្រង់ថ្មី No Scan - ថែម ស្រោម ខ្សែដុំសាក",
-            "category": "iPhone",
-            "price": 590000,
-            "currency": "KHR",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         },
         {
             "id": "B45",

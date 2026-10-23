@@ -1231,6 +1231,14 @@
             "price": 289,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/IMG_2001-500x500.jpg"
+        },
+        {
+            "id": "z032",
+            "name": "Huawei 11.5s 8GB 256GB | Keyboard Eng+ស្រោម +ប៊ិច ថែមស្គ្រីន",
+            "category": "Tablet",
+            "price": 221,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
         }
     ]
 }

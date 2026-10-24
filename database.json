@@ -1223,6 +1223,14 @@
             "price": 221,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/A1.jpg"
+        },
+        {
+            "id": "C21",
+            "name": "Global - Huawei 11.5s | Flash + Paper | Ram8g 256 - ថែម 1 ចប់",
+            "category": "Tablet",
+            "price": 324,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/B02.jpg"
         }
     ]
 }

@@ -1231,6 +1231,14 @@
             "price": 324,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/Global%20Huawei.jpg"
+        },
+        {
+            "id": "Z15",
+            "name": "iPhone 15 Pro Max 256GB អេក្រងគេមតូច | Bypass | - ថែម 1set",
+            "category": "iPhone",
+            "price": 285,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2017%20Pro.jpg"
         }
     ]
 }

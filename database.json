@@ -1231,6 +1231,14 @@
             "price": 285,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2015%20PM.jpg"
+        },
+        {
+            "id": "n1",
+            "name": "iPhone 12 Pro |128GB អេក្រង់ថ្មី - ថែម 1set",
+            "category": "iPhone",
+            "price": 219,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2015%20Plus.jpg"
         }
     ]
 }

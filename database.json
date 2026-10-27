@@ -1239,6 +1239,14 @@
             "price": 219,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2012Pro.jpg"
+        },
+        {
+            "id": "B12",
+            "name": "iPhone Xs 64GB អេក្រង់ថ្មី",
+            "category": "iPhone",
+            "price": 98,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%20XS.jpg"
         }
     ]
 }

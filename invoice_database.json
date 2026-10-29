@@ -885,6 +885,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-10-29-006-1793261301700",
+      "invoiceNumber": "006",
+      "date": "2026-10-29",
+      "datetime": "2026-10-29T08:08:21.700Z",
+      "customer": "Oeurn keomlong",
+      "note": "",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei  11.5s | Ram 12GB - 256GB | Magic Keybord + ប៊ិច ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "265.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$267.50",
+      "totalKHR": "1,096,750៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

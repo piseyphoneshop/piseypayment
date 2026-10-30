@@ -1039,6 +1039,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ សេវា COD ✅"
       ]
+    },
+    {
+      "id": "2026-10-30-003-1793342962281",
+      "invoiceNumber": "003",
+      "date": "2026-10-30",
+      "datetime": "2026-10-30T06:49:22.281Z",
+      "customer": "THE009",
+      "note": "17pro pink",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 11 សាណុំស៊ីន up 17 Pro",
+          "qty": 1,
+          "amount": "160.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$162.50",
+      "totalKHR": "666,250៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

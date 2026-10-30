@@ -1255,14 +1255,6 @@
             "price": 160,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2017%20Pro.jpg"
-        },
-        {
-            "id": "M12",
-            "name": "iPhone 11 អេក្រង់Zin  - Up 17 Pro",
-            "category": "iPhone",
-            "price": 160,
-            "currency": "USD",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2017%20Pro.jpg"
         }
     ]
 }

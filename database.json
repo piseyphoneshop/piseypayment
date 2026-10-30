@@ -1247,6 +1247,14 @@
             "price": 98,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%20XS.jpg"
+        },
+        {
+            "id": "x87",
+            "name": "iPhone 11 សាណុំស៊ីន up 17 Pro",
+            "category": "iPhone",
+            "price": 160,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2017%20Pro.jpg"
         }
     ]
 }

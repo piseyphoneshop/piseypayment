@@ -1255,6 +1255,64 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-10-31-005-1793431215976",
+      "invoiceNumber": "005",
+      "date": "2026-10-31",
+      "datetime": "2026-10-31T07:20:15.976Z",
+      "customer": "សុខធិន",
+      "note": "ស្រោមស្វាយ",
+      "paymentStatus": "unpaid",
+      "printStatus": "print_failed",
+      "items": [
+        {
+          "name": "Paper Mate - Huawei 11.5 | Ram8GB 128GB",
+          "qty": 1,
+          "amount": "177.00$"
+        },
+        {
+          "name": "Case Huawei MatePad 11.5s",
+          "qty": 1,
+          "amount": "10.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$189.50",
+      "totalKHR": "776,950៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
+    },
+    {
+      "id": "2026-10-31-006-1793431240870",
+      "invoiceNumber": "006",
+      "date": "2026-10-31",
+      "datetime": "2026-10-31T07:20:40.870Z",
+      "customer": "សុខធិន",
+      "note": "ស្រោមស្វាយ",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Paper Mate - Huawei 11.5 | Ram8GB 128GB",
+          "qty": 1,
+          "amount": "177.00$"
+        },
+        {
+          "name": "Case Huawei MatePad 11.5s",
+          "qty": 1,
+          "amount": "10.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$189.50",
+      "totalKHR": "776,950៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

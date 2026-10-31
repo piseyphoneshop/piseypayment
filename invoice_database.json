@@ -1231,6 +1231,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-10-31-004-1793424953704",
+      "invoiceNumber": "004",
+      "date": "2026-10-31",
+      "datetime": "2026-10-31T05:35:53.704Z",
+      "customer": "Ah Corn",
+      "note": "",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 12 64GB សាណុំ Zin ស៉ីម No Scan  - ថែម ស្រោម ខ្សែដុំសាក",
+          "qty": 1,
+          "amount": "180.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$182.50",
+      "totalKHR": "748,250៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

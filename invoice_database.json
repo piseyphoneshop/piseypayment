@@ -1571,6 +1571,40 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-01-009-1793514665488",
+      "invoiceNumber": "009",
+      "date": "2026-11-01",
+      "datetime": "2026-11-01T06:31:05.488Z",
+      "customer": "ស្រី និច",
+      "note": "",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPad 9.7inch 2017 - 32G Sim+WiF - ថែម ខ្សែសាកដុំសាក",
+          "qty": 1,
+          "amount": "89.00$"
+        },
+        {
+          "name": "ស្រោម iPad 9.7",
+          "qty": 1,
+          "amount": "10.00$"
+        },
+        {
+          "name": "ស្រ្គីន",
+          "qty": 1,
+          "amount": "2.50$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$104.00",
+      "totalKHR": "426,400៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

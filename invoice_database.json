@@ -1658,6 +1658,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-02-001-1793602411968",
+      "invoiceNumber": "001",
+      "date": "2026-11-02",
+      "datetime": "2026-11-02T06:53:31.968Z",
+      "customer": "ជូលី",
+      "note": "12pro white",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 12 Pro |128GB អេក្រង់ថ្មី - ថែម 1set",
+          "qty": 1,
+          "amount": "219.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$221.50",
+      "totalKHR": "908,150៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

@@ -1732,6 +1732,35 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ដឹកជញ្ជូន ឥតគិតថ្លៃ ✅"
       ]
+    },
+    {
+      "id": "2026-11-03-003-1793673113689",
+      "invoiceNumber": "003",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T02:31:53.689Z",
+      "customer": "-",
+      "note": "",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Stylus Pencil",
+          "qty": 1,
+          "amount": "10.00$"
+        },
+        {
+          "name": "Case Huawei MatePad 11.5s",
+          "qty": 1,
+          "amount": "10.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$22.50",
+      "totalKHR": "92,250៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

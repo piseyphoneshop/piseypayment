@@ -1706,6 +1706,32 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-03-001-1793671714108",
+      "invoiceNumber": "001",
+      "date": "2026-11-03",
+      "datetime": "2026-11-03T02:08:34.108Z",
+      "customer": "ម៉ុនសុត",
+      "note": "សុំ mouse madpad ក្រម៉ៅ",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei 11.5s | Ram8GB 256GB | + Magic Keyboard  +  ប៊ិច ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "249.00$"
+        }
+      ],
+      "serviceAmount": "Free",
+      "totalUSD": "$249.00",
+      "totalKHR": "1,020,900៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 60,000៛  (14.63$)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 234.37$  (960,900៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ដឹកជញ្ជូន ឥតគិតថ្លៃ ✅"
+      ]
     }
   ]
 }

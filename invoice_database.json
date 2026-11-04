@@ -1943,6 +1943,31 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ សេវាដឹក (ភ្នំពេញ) ✅"
       ]
+    },
+    {
+      "id": "2026-11-04-003-1793760338876",
+      "invoiceNumber": "003",
+      "date": "2026-11-04",
+      "datetime": "2026-11-04T02:45:38.876Z",
+      "customer": "Leng chan raksmey",
+      "note": "Black",
+      "paymentStatus": "paid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone XR 64GB ស៊ីម  | ថែម 1Set",
+          "qty": 1,
+          "amount": "75.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$77.50",
+      "totalKHR": "317,750៛",
+      "infoLines": [
+        "ស្ថានភាព៖ បានបង់ប្រាក់រួចរាល់ (Fully Paid) ✅",
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ សេវាដឹក (ភ្នំពេញ) ✅"
+      ]
     }
   ]
 }

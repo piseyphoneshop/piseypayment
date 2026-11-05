@@ -2167,6 +2167,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-05-004-1793851624224",
+      "invoiceNumber": "004",
+      "date": "2026-11-05",
+      "datetime": "2026-11-05T04:07:04.224Z",
+      "customer": "-",
+      "note": "Madpad matcha case pink kb kh pink",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei 11.5s 8GB 256GB | Keyboard Touch ស្រោម +ប៊ិច ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "232.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$234.50",
+      "totalKHR": "961,450៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

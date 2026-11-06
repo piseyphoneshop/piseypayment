@@ -1263,6 +1263,14 @@
             "price": 95,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone11.jpg"
+        },
+        {
+            "id": "V12",
+            "name": "iPad Mini6 | 256GB SIM + WiFi | - ថែម 1set",
+            "category": "iPad",
+            "price": 385,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/IMG_2001-500x500.jpg"
         }
     ]
 }

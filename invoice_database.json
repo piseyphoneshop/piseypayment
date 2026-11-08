@@ -2720,6 +2720,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-08-007-1794118522983",
+      "invoiceNumber": "007",
+      "date": "2026-11-08",
+      "datetime": "2026-11-08T06:15:22.983Z",
+      "customer": "Jira jira",
+      "note": "ដូរយកគ្រើមស្រ្គីន",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei 11.5s PaperMate + Flash | 12GB 256GB | - ថែមខ្សែសាកដុំសាក",
+          "qty": 1,
+          "amount": "255.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$257.50",
+      "totalKHR": "1,055,750៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

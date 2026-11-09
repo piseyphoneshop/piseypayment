@@ -1271,6 +1271,14 @@
             "price": 385,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%20Mini6.jpg"
+        },
+        {
+            "id": "X65",
+            "name": "iPhone 15 Pro Max 256GB អេក្រង់ GX | Bypass | - ថែម 1set",
+            "category": "iPhone",
+            "price": 255,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPhone%2015%20PM.jpg"
         }
     ]
 }

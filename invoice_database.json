@@ -2935,6 +2935,32 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ សេវា COD ✅"
       ]
+    },
+    {
+      "id": "2026-11-09-008-1794204764742",
+      "invoiceNumber": "008",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T06:12:44.742Z",
+      "customer": "Change khav",
+      "note": "",
+      "paymentStatus": "deposit",
+      "printStatus": "print_failed",
+      "items": [
+        {
+          "name": "iPad Mini6 | 256GB SIM + WiFi | - ថែម 1set",
+          "qty": 1,
+          "amount": "385.00$"
+        }
+      ],
+      "serviceAmount": "$10.00",
+      "totalUSD": "$395.00",
+      "totalKHR": "1,619,500៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 95.00$  (389,500៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 300.00$  (1,230,000៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ សេវា COD ✅"
+      ]
     }
   ]
 }

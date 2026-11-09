@@ -2768,6 +2768,40 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-09-001-1794187548953",
+      "invoiceNumber": "001",
+      "date": "2026-11-09",
+      "datetime": "2026-11-09T01:25:48.953Z",
+      "customer": "Sophea seang",
+      "note": "Caseសណ្ដែក",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei MatePad 11.5s | Ram8GB 256GB",
+          "qty": 1,
+          "amount": "187.00$"
+        },
+        {
+          "name": "ស្រ្គីន Matepad",
+          "qty": 1,
+          "amount": "5.00$"
+        },
+        {
+          "name": "Case Huawei MatePad 11.5s",
+          "qty": 1,
+          "amount": "10.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$204.50",
+      "totalKHR": "838,450៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

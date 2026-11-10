@@ -3087,6 +3087,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-10-004-1794276641813",
+      "invoiceNumber": "004",
+      "date": "2026-11-10",
+      "datetime": "2026-11-10T02:10:41.813Z",
+      "customer": "Ly ly",
+      "note": "ស",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 15 Pro Max 256GB អេក្រង់ GX | Bypass | - ថែម 1set",
+          "qty": 1,
+          "amount": "255.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$257.50",
+      "totalKHR": "1,055,750៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

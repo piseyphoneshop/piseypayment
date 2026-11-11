@@ -1295,6 +1295,14 @@
             "price": 385,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "B76",
+            "name": "iPhone 14 Pro Max សាណុំ Zin មានប្រអប់",
+            "category": "iPhone",
+            "price": 545,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone14promax.jpg"
         }
     ]
 }

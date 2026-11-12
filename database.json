@@ -1303,6 +1303,14 @@
             "price": 545,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone14promax.jpg"
+        },
+        {
+            "id": "D02",
+            "name": "256GB | Huawei MatePad Pro | RAM 12GB - ខ្សែសាក ដុំសាក ប៊ិច + 3D Wallpaper + WPS PC",
+            "category": "Tablet",
+            "price": 325,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
         }
     ]
 }

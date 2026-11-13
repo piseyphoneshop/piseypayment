@@ -3829,6 +3829,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-13-001-1794548572607",
+      "invoiceNumber": "001",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T05:42:52.607Z",
+      "customer": "-",
+      "note": "",
+      "paymentStatus": "unpaid",
+      "printStatus": "print_failed",
+      "items": [
+        {
+          "name": "iPhone 5",
+          "qty": 1,
+          "amount": "25.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$27.50",
+      "totalKHR": "111,375៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

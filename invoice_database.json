@@ -3877,6 +3877,32 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,050 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-13-004-1794556432156",
+      "invoiceNumber": "004",
+      "date": "2026-11-13",
+      "datetime": "2026-11-13T07:53:52.156Z",
+      "customer": "Chanthol",
+      "note": "",
+      "paymentStatus": "deposit",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "256GB | Huawei MatePad Pro | RAM 12GB - ខ្សែសាក ដុំសាក ប៊ិច + 3D Wallpaper + WPS PC",
+          "qty": 1,
+          "amount": "325.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$327.50",
+      "totalKHR": "1,342,750៛",
+      "infoLines": [
+        "💵 បានបង់មុន (Paid) = 15.00$  (61,500៛)",
+        "🔴 នៅសល់ត្រូវបង់ (Balance) = 312.50$  (1,281,250៛)",
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

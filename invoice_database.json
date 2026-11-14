@@ -4025,6 +4025,30 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-14-010-1794648407998",
+      "invoiceNumber": "010",
+      "date": "2026-11-14",
+      "datetime": "2026-11-14T09:26:47.998Z",
+      "customer": "Ka ta na",
+      "note": "ភ្ញៀវគាត់ទិញ iphone 7 128g ប៉ុន្តែនៅក្នុង system វាអត់មានចាំខ្ញុំដាក់អា iphone 8 15 ម៉ឺននេះសិន",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 8 64GB ស៊ីម | ថែម ដុំសាក",
+          "qty": 1,
+          "amount": "150,000៛"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$39.09",
+      "totalKHR": "160,250៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

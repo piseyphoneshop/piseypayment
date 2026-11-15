@@ -4182,6 +4182,31 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-15-006-1794729902774",
+      "invoiceNumber": "006",
+      "date": "2026-11-15",
+      "datetime": "2026-11-15T08:05:02.774Z",
+      "customer": "Hong  telegram",
+      "note": "ពណ៌ទឹកសមុទ្រ",
+      "paymentStatus": "paid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Keyboard KH",
+          "qty": 1,
+          "amount": "11.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$13.50",
+      "totalKHR": "55,350៛",
+      "infoLines": [
+        "ស្ថានភាព៖ បានបង់ប្រាក់រួចរាល់ (Fully Paid) ✅",
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

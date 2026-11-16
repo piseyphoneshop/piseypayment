@@ -4410,6 +4410,31 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ សេវា COD ✅"
       ]
+    },
+    {
+      "id": "2026-11-16-007-1794823185312",
+      "invoiceNumber": "007",
+      "date": "2026-11-16",
+      "datetime": "2026-11-16T09:59:45.312Z",
+      "customer": "Rai yu",
+      "note": "",
+      "source": "Page1",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPhone 15 (Bypass) | 128G",
+          "qty": 1,
+          "amount": "219.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$221.50",
+      "totalKHR": "908,150៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

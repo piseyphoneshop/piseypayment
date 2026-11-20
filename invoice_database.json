@@ -5216,6 +5216,41 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-20-006-1795169055312",
+      "invoiceNumber": "006",
+      "date": "2026-11-20",
+      "datetime": "2026-11-20T10:04:15.312Z",
+      "customer": "Mean leap",
+      "note": "សុំយកស្រ្គីនគ្រើម",
+      "source": "Page1",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei MatePad 11.5s | Ram8GB 256GB",
+          "qty": 1,
+          "amount": "187.00$"
+        },
+        {
+          "name": "Stylus Pencil",
+          "qty": 1,
+          "amount": "10.00$"
+        },
+        {
+          "name": "Magic Keyboard Huawei",
+          "qty": 1,
+          "amount": "55.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$254.50",
+      "totalKHR": "1,043,450៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

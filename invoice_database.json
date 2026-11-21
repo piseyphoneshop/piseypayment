@@ -5336,6 +5336,36 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-20-010-1795232210258",
+      "invoiceNumber": "010",
+      "date": "2026-11-20",
+      "datetime": "2026-11-21T03:36:50.258Z",
+      "customer": "វ័ន្ត វិវឌ្ឋន៍",
+      "note": "",
+      "source": "Page1",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Stylus Pencil",
+          "qty": 1,
+          "amount": "10.00$"
+        },
+        {
+          "name": "បញ្ចូលកម្មវិធី",
+          "qty": 1,
+          "amount": "15.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$27.50",
+      "totalKHR": "112,750៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

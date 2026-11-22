@@ -5651,6 +5651,31 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-22-007-1795346166985",
+      "invoiceNumber": "007",
+      "date": "2026-11-22",
+      "datetime": "2026-11-22T11:16:06.985Z",
+      "customer": "Vai Vai",
+      "note": "ពណ៌លឿង Grade B",
+      "source": "Telegram",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "iPad 10Gen | 256GB Sim + WiFi - ថែម 1Set",
+          "qty": 1,
+          "amount": "353.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$355.50",
+      "totalKHR": "1,457,550៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

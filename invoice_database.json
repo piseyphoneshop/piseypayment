@@ -5703,33 +5703,6 @@
       ]
     },
     {
-      "id": "2026-11-23-001-1795414716214",
-      "invoiceNumber": "001",
-      "date": "2026-11-23",
-      "datetime": "2026-11-23T06:18:36.214Z",
-      "customer": "Kheang",
-      "note": "",
-      "source": "Telegram",
-      "paymentStatus": "deposit",
-      "printStatus": "print_failed",
-      "items": [
-        {
-          "name": "Huawei 11.5s | Ram8GB 256GB | + Magic Keyboard  +  ប៊ិច ថែមស្គ្រីន",
-          "qty": 1,
-          "amount": "249.00$"
-        }
-      ],
-      "serviceAmount": "$10.00",
-      "totalUSD": "$259.00",
-      "totalKHR": "1,061,900៛",
-      "infoLines": [
-        "💵 បានបង់មុន (Paid) = 15.00$  (61,500៛)",
-        "🔴 នៅសល់ត្រូវបង់ (Balance) = 244.00$  (1,000,400៛)",
-        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
-        "ផ្ញើរតាមរយះ សេវា COD ✅"
-      ]
-    },
-    {
       "id": "2026-11-23-001-1795414729947",
       "invoiceNumber": "001",
       "date": "2026-11-23",

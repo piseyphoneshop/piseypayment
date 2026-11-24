@@ -5753,6 +5753,31 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-24-002-1795508217287",
+      "invoiceNumber": "002",
+      "date": "2026-11-24",
+      "datetime": "2026-11-24T08:16:57.287Z",
+      "customer": "Da ra",
+      "note": "Mad pad som sart kmao",
+      "source": "Page1",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Huawei  11.5 | Ram8GB 128GB | + Magic Kb + ប៊ិច  - ថែមស្គ្រីន",
+          "qty": 1,
+          "amount": "247.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$249.50",
+      "totalKHR": "1,022,950៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }

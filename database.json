@@ -1303,6 +1303,14 @@
             "price": 325,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/MatePad_Pro.png"
+        },
+        {
+            "id": "DS034",
+            "name": "iPad 10Gen | 256GB Sim + WiFi - ថែម 1Set | Grade B",
+            "category": "iPad",
+            "price": 343,
+            "currency": "USD",
+            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iPad%2010%20Generation.jpg"
         }
     ]
 }

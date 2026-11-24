@@ -5707,7 +5707,7 @@
     {
       "id": "2026-11-23-002-1795487499484",
       "invoiceNumber": "002",
-      "date": "2026-11-23",
+      "date": "2026-11-24",
       "datetime": "2026-11-24T02:31:39.484Z",
       "customer": "Telegram .",
       "note": "Som sart",
@@ -5777,42 +5777,6 @@
       "infoLines": [
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
-      ]
-    },
-    {
-      "id": "2026-11-24-001-1795510798687",
-      "invoiceNumber": "001",
-      "date": "2026-11-24",
-      "datetime": "2026-11-24T08:59:58.687Z",
-      "customer": "Vanny",
-      "note": "Wow",
-      "source": "PageVIP",
-      "paymentStatus": "deposit",
-      "printStatus": "print_failed",
-      "items": [
-        {
-          "name": "iPad 6th 2018 - 32G Sim+WiFi",
-          "qty": 1,
-          "amount": "98.00$",
-          "originalAmount": "128.00$",
-          "discount": "30.00$"
-        },
-        {
-          "name": "iPad 9.7inch 2017 - 32G Sim+WiFi",
-          "qty": 1,
-          "amount": "74.00$",
-          "originalAmount": "79.00$",
-          "discount": "5.00$"
-        }
-      ],
-      "serviceAmount": "$10.00",
-      "totalUSD": "$182.00",
-      "totalKHR": "746,200៛",
-      "infoLines": [
-        "💵 បានបង់មុន (Paid) = 15.00$  (61,500៛)",
-        "🔴 នៅសល់ត្រូវបង់ (Balance) = 167.00$  (684,700៛)",
-        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
-        "ផ្ញើរតាមរយះ សេវា COD ✅"
       ]
     }
   ]

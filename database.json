@@ -106,9 +106,9 @@
         },
         {
             "id": "p13",
-            "name": "iPhone 12​ - អេក្រង់ថ្មី | 64G",
+            "name": "iPhone 12​ - អេក្រង់ថ្មី | 64G l មានសេ្កន - ថែម 1set",
             "category": "iPhone",
-            "price": 140,
+            "price": 150,
             "currency": "USD",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         },
@@ -765,14 +765,6 @@
             "name": "iPhone 12 64GB សាណុំZin No ស្កេន - ថែម ស្រោម ខ្សែដុំសាក",
             "category": "iPhone",
             "price": 650000,
-            "currency": "KHR",
-            "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
-        },
-        {
-            "id": "P232",
-            "name": "iPhone 12 64GB អេក្រង់ថ្មី No ស្កេន-ថែមស្រោម ខ្សែដុំសាក",
-            "category": "iPhone",
-            "price": 550000,
             "currency": "KHR",
             "image": "https://raw.githubusercontent.com/piseyphoneshop/piseypayment/main/images/iphone12.jpg"
         },

@@ -5783,10 +5783,10 @@
       "id": "2026-11-25-001-1795587382871",
       "invoiceNumber": "001",
       "date": "2026-11-25",
-      "datetime": "2026-11-25T06:16:17.321Z",
+      "datetime": "2026-11-25T06:16:00.000Z",
       "customer": "-",
-      "note": "",
-      "source": "",
+      "note": "iPad ខ្មៅ",
+      "source": "Telegram",
       "paymentStatus": "unpaid",
       "printStatus": "success",
       "items": [

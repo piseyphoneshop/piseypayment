@@ -5950,6 +5950,31 @@
         "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
         "ផ្ញើរតាមរយះ VET ✅"
       ]
+    },
+    {
+      "id": "2026-11-27-002-1795746274001",
+      "invoiceNumber": "002",
+      "date": "2026-11-27",
+      "datetime": "2026-11-27T02:24:30.360Z",
+      "customer": "ស្ដេច គ្រុឌ",
+      "note": "ឈូក",
+      "source": "Page1",
+      "paymentStatus": "unpaid",
+      "printStatus": "success",
+      "items": [
+        {
+          "name": "Keyboard Touch ភ្លើង",
+          "qty": 1,
+          "amount": "25.00$"
+        }
+      ],
+      "serviceAmount": "$2.50",
+      "totalUSD": "$27.50",
+      "totalKHR": "112,750៛",
+      "infoLines": [
+        "អាត្រាលុយខ្មែរ 1$ = 4,100 រៀល",
+        "ផ្ញើរតាមរយះ VET ✅"
+      ]
     }
   ]
 }
